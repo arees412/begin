@@ -1,0 +1,2693 @@
+[
+    {
+        "name": "Karachi Grammar School",
+        "address": "Clifton, Karachi",
+        "fees": "30000-50000",
+        "contact": "021-35821703",
+        "website": "https://kgs.edu.pk/",
+        "board": "Cambridge",
+        "location": "Clifton, Karachi"
+    },
+    {
+        "name": "International School of Karachi",
+        "address": "Clifton, Karachi",
+        "fees": "30000-100000",
+        "contact": "021-35835805",
+        "website": "https://iskschool.edupage.org/",
+        "board": "Cambridge",
+        "location": "Clifton, Karachi"
+    },
+    {
+        "name": "Bay View Academy",
+        "address": "DHA Phase 8, Karachi",
+        "fees": "20000-30000",
+        "contact": "021-35857257-60",
+        "website": null,
+        "board": "Cambridge",
+        "location": "DHA Phase 8, Karachi"
+    },
+    {
+        "name": "British Overseas School",
+        "address": "DHA Phase 7, Karachi",
+        "fees": "20000-30000",
+        "contact": "021-111267267",
+        "website": null,
+        "board": "Cambridge",
+        "location": "DHA Phase 7, Karachi"
+    },
+    {
+        "name": "Mama Parsi Girls' Secondary",
+        "address": "M.A. Jinnah Rd, Karachi",
+        "fees": "30000-40000",
+        "contact": "021-32720224",
+        "website": null,
+        "board": "Cambridge",
+        "location": "M.A Jinnah Rd, Karachi"
+    },
+    {
+        "name": "The Lyceum School",
+        "address": "Defence V, Clifton, Karachi",
+        "fees": "30000-40000",
+        "contact": "021-35821741",
+        "website": "https://lyceumschool.edu.pk/",
+        "board": "Cambridge",
+        "location": "Defence V, Clifton, Karachi"
+    },
+    {
+        "name": "Foundation Public School",
+        "address": "PECHS, Karachi",
+        "fees": "30000-40000",
+        "contact": "021-34389652",
+        "website": "https://fps.edu.pk/",
+        "board": "Cambridge",
+        "location": "P.E.C.H.S, Karachi"
+    },
+    {
+        "name": "St. Patrick's High School",
+        "address": "Saddar, Karachi",
+        "fees": "20000-30000",
+        "contact": "021-32781444",
+        "website": null,
+        "board": "Cambridge",
+        "location": "Saddar, Karachi"
+    },
+    {
+        "name": "The City School",
+        "address": "North Nazimabad, Karachi",
+        "fees": "30000-40000",
+        "contact": "021-111444123",
+        "website": null,
+        "board": "Cambridge",
+        "location": "North Nazimabad, Karachi"
+    },
+    {
+        "name": "Bai Virbaiji Sopariwala (BVS)",
+        "address": "Saddar, Karachi",
+        "fees": "20000-30000",
+        "contact": "021-32721271",
+        "website": null,
+        "board": "Sindh Board",
+        "location": "Saddar, Karachi"
+    },
+    {
+        "name": "Happy Home School",
+        "address": "Gulshan, Karachi",
+        "fees": "15000-30000",
+        "contact": "021-34980721",
+        "website": null,
+        "board": "Cambridge",
+        "location": "Gulshan, Karachi"
+    },
+    {
+        "name": "St. Michael's Convent School",
+        "address": "Saddar, Karachi",
+        "fees": "20000-30000",
+        "contact": "021-32780587",
+        "website": null,
+        "board": "Cambridge",
+        "location": "Saddar, Karachi"
+    },
+    {
+        "name": "Habib Public School",
+        "address": "Saddar, Karachi",
+        "fees": "20000-30000",
+        "contact": "021-32782934",
+        "website": null,
+        "board": "Cambridge",
+        "location": "Saddar, Karachi"
+    },
+    {
+        "name": "MCDC Schooling System",
+        "address": "C-185 Block J North Nazimabad Karachi",
+        "fees": "3000-10000",
+        "contact": "021-36631999",
+        "website": "https://www.mcdc.pk/",
+        "board": "Agha khan board",
+        "location": "North Nazimabad, Karachi"
+    },
+    {
+        "name": "Generations School",
+        "address": "Safoora Goth, Karachi",
+        "fees": "30000-40000",
+        "contact": "021-34970572",
+        "website": null,
+        "board": "Cambridge",
+        "location": "Safoora Goth, Karachi"
+    },
+    {
+        "name": "Generations School",
+        "address": "Safoora Goth, Karachi",
+        "fees": "30000-40000",
+        "contact": "021-34970572",
+        "website": null,
+        "board": "Sindh Board",
+        "location": "Safoora Goth, Karachi"
+    },
+    {
+        "name": "Bay View High",
+        "address": "Clifton, Karachi",
+        "fees": "20000-30000",
+        "contact": "021-35830420-2",
+        "website": null,
+        "board": "Cambridge",
+        "location": "Clifton, Karachi"
+    },
+    {
+        "name": "DHA School & College",
+        "address": "DHA Phase 8, Karachi",
+        "fees": "20000-30000",
+        "contact": "021-35244705",
+        "website": null,
+        "board": "Cambridge",
+        "location": "DHA Phase 8, Karachi"
+    },
+    {
+        "name": "DHA School & College",
+        "address": "DHA Phase 8, Karachi",
+        "fees": "20000-30000",
+        "contact": "021-35244705",
+        "website": null,
+        "board": "Sindh Board",
+        "location": "DHA Phase 8, Karachi"
+    },
+    {
+        "name": "Karachi American School",
+        "address": "KDA Scheme 1, Karachi",
+        "fees": "50000-70000",
+        "contact": "021-34539995",
+        "website": "https://www.kas.edu.pk/",
+        "board": "Cambridge",
+        "location": "KDA Scheme 1, Karachi"
+    },
+    {
+        "name": "PECHS Girls' School",
+        "address": "PECHS, Karachi",
+        "fees": "20000-30000",
+        "contact": "021-34530482",
+        "website": null,
+        "board": "Cambridge",
+        "location": "P.E.C.H.S, Karachi"
+    },
+    {
+        "name": "Dawood Public School",
+        "address": "Bahadurabad, Karachi",
+        "fees": "30000-40000",
+        "contact": "021-34531135",
+        "website": null,
+        "board": "Cambridge",
+        "location": "Bahadurabad, Karachi"
+    },
+    {
+        "name": "The Educators",
+        "address": "Allama Iqbal Town Block W North Nazimabad Town, Karachi, Karachi City, Sindh 74700",
+        "fees": "15000-30000",
+        "contact": "021-111785785",
+        "website": null,
+        "board": "Sindh Board",
+        "location": " North Nazimabad Town, Karachi"
+    },
+    {
+        "name": "Shaheen Public School",
+        "address": "North Nazimabad, Karachi",
+        "fees": "10000-20000",
+        "contact": "021-36641489",
+        "website": null,
+        "board": "Sindh Board",
+        "location": "North Nazimabad, Karachi"
+    },
+    {
+        "name": "The Educators",
+        "address": "North Nazimabad, Karachi, Sindh, North Nazimabad Town",
+        "fees": "15000-30000",
+        "contact": "021-111785785",
+        "website": null,
+        "board": "Cambridge",
+        "location": "North Nazimabad, Karachi"
+    },
+    {
+        "name": "Shaheen Public School",
+        "address": "North Nazimabad, Karachi",
+        "fees": "10000-20000",
+        "contact": "021-36641489",
+        "website": null,
+        "board": "Cambridge",
+        "location": "North Nazimabad, Karachi"
+    },
+    {
+        "name": "White House Grammar School",
+        "address": "Gulshan, Karachi",
+        "fees": "15000-30000",
+        "contact": "021-34970916",
+        "website": null,
+        "board": "Cambridge",
+        "location": "Gulshan, Karachi"
+    },
+    {
+        "name": "Indus Academy",
+        "address": "Clifton, Karachi",
+        "fees": "30000-40000",
+        "contact": "021-35875552",
+        "website": null,
+        "board": "Cambridge",
+        "location": "Clifton, Karachi"
+    },
+    {
+        "name": "PAF Chapter, Karachi",
+        "address": "Shahrah-e-Faisal, Karachi",
+        "fees": "30000-40000",
+        "contact": "021-34577100",
+        "website": null,
+        "board": "Cambridge",
+        "location": "Shahrah-e-Faisal, Karachi"
+    },
+    {
+        "name": "Springfield School",
+        "address": "Clifton, Karachi",
+        "fees": "20000-30000",
+        "contact": "021-35865025",
+        "website": null,
+        "board": "Cambridge",
+        "location": "Clifton, Karachi"
+    },
+    {
+        "name": "Education Bay",
+        "address": "DHA Phase 8, Karachi",
+        "fees": "30000-40000",
+        "contact": "021-35244789",
+        "website": null,
+        "board": "Cambridge",
+        "location": "DHA Phase 8, Karachi"
+    },
+    {
+        "name": "Reflections School",
+        "address": "DHA Phase 7, Karachi",
+        "fees": "30000-40000",
+        "contact": "021-35340420",
+        "website": null,
+        "board": "Cambridge",
+        "location": "DHA Phase 7, Karachi"
+    },
+    {
+        "name": "AES School for Girls (Main Campus)",
+        "address": "Gulistan-e-Johar, Karachi, Pakistan",
+        "fees": "5000-15000",
+        "contact": "92-2134618703",
+        "website": "http://www.aes.edu.pk/",
+        "board": "Cambridge",
+        "location": "Gulistan-e-Jauhar, Karachi"
+    },
+    {
+        "name": "AES School for Girls (Main Campus)",
+        "address": "Gulistan-e-Johar, Karachi, Pakistan",
+        "fees": "5000-15000",
+        "contact": "92-2134618703",
+        "website": "http://www.aes.edu.pk/",
+        "board": "Sindh Board",
+        "location": "Gulistan-e-Jauhar, Karachi"
+    },
+    {
+        "name": "Links School",
+        "address": "Clifton, Karachi",
+        "fees": "30000-40000",
+        "contact": "021-35379605",
+        "website": null,
+        "board": "Cambridge",
+        "location": "Clifton, Karachi"
+    },
+    {
+        "name": "The Avicenna School",
+        "address": "Clifton, Karachi",
+        "fees": "20000-30000",
+        "contact": "021-35872436",
+        "website": null,
+        "board": "Cambridge",
+        "location": "Clifton, Karachi"
+    },
+    {
+        "name": "Habib Girls' School",
+        "address": "Saddar, Karachi",
+        "fees": "20000-30000",
+        "contact": "021-32782937",
+        "website": null,
+        "board": "Cambridge",
+        "location": "Saddar, Karachi"
+    },
+    {
+        "name": "St. Joseph's Convent School",
+        "address": "Saddar, Karachi",
+        "fees": "30000-40000",
+        "contact": "021-32782563",
+        "website": null,
+        "board": "Sindh Board",
+        "location": "Saddar, Karachi"
+    },
+    {
+        "name": "St. Joseph's Convent School",
+        "address": "Saddar, Karachi",
+        "fees": "30000-40000",
+        "contact": "021-32782563",
+        "website": null,
+        "board": "Cambridge",
+        "location": "Saddar, Karachi"
+    },
+    {
+        "name": "Head Start School",
+        "address": "Clifton, Karachi",
+        "fees": "30000-40000",
+        "contact": null,
+        "website": null,
+        "board": "Sindh Board",
+        "location": "Clifton, Karachi"
+    },
+    {
+        "name": "Head Start School",
+        "address": "Clifton, Karachi",
+        "fees": "30000-40000",
+        "contact": null,
+        "website": null,
+        "board": "Cambridge",
+        "location": "Clifton, Karachi"
+    },
+    {
+        "name": "Happy Palace Grammar School Campus 1",
+        "address": "C-122, Block 6, near Happy Chowrangi, Federal B Area",
+        "fees": "5000-15000",
+        "contact": "(021) 36378195, 36378196",
+        "website": "https://hpgs.edu.pk/",
+        "board": "Sindh Board",
+        "location": "Federal B Area, Karachi"
+    },
+    {
+        "name": "Happy Palace Grammar School Campus 2",
+        "address": "C-282, Block 10, near Happy Chowrangi, Federal B Area",
+        "fees": "5000-15000",
+        "contact": "(021) 36434840, 36368338",
+        "website": "https://hpgs.edu.pk/",
+        "board": "Sindh Board",
+        "location": "Federal B Area, Karachi"
+    },
+    {
+        "name": "Happy Palace Grammar School Campus 3",
+        "address": "C-268, Block 10, near Happy Chowrangi, Federal B Area",
+        "fees": "5000-15000",
+        "contact": "(021) 36344611, 36368300",
+        "website": "https://hpgs.edu.pk/",
+        "board": "Sindh Board",
+        "location": "Federal B Area, Karachi"
+    },
+    {
+        "name": "Happy Palace Grammar School Campus 4",
+        "address": "C-127, Block 6, near Happy Chowrangi, Federal B Area",
+        "fees": "5000-15000",
+        "contact": "(021) 36362908",
+        "website": "https://hpgs.edu.pk/",
+        "board": "Sindh Board",
+        "location": "Federal B Area, Karachi"
+    },
+    {
+        "name": "Happy Palace Grammar School Campus 5",
+        "address": "C-128, Block 6, near Happy Chowrangi, Federal B Area",
+        "fees": "5000-15000",
+        "contact": "(021) 36346128",
+        "website": "https://hpgs.edu.pk/",
+        "board": "Sindh Board",
+        "location": "Federal B Area, Karachi"
+    },
+    {
+        "name": "Happy Palace Grammar School Campus 6",
+        "address": "C-133, Block 6, near Happy Chowrangi, Federal B Area",
+        "fees": "5000-15000",
+        "contact": "(021) 36362473",
+        "website": "https://hpgs.edu.pk/",
+        "board": "Sindh Board",
+        "location": "Federal B Area, Karachi"
+    },
+    {
+        "name": "Happy Palace Grammar School Campus 7",
+        "address": "C-139, Block 6, near Happy Chowrangi, Federal B Area",
+        "fees": "5000-15000",
+        "contact": "(021) 36340813, 36802942",
+        "website": "https://hpgs.edu.pk/",
+        "board": "Sindh Board",
+        "location": "Federal B Area, Karachi"
+    },
+    {
+        "name": "Happy Palace Grammar School Campus 9",
+        "address": "C-289, Block 10, Gulberg Town, near Happy Chowrangi, Federal B Area",
+        "fees": "5000-15000",
+        "contact": "(021) 36434839",
+        "website": "https://hpgs.edu.pk/",
+        "board": "Sindh Board",
+        "location": "Federal B Area, Karachi"
+    },
+    {
+        "name": "Happy Palace Grammar School Campus 10",
+        "address": "C-74, Block 6, Federal B Area",
+        "fees": "5000-15000",
+        "contact": "(021) 36803075",
+        "website": "https://hpgs.edu.pk/",
+        "board": "Sindh Board",
+        "location": "Federal B Area, Karachi"
+    },
+    {
+        "name": "Happy Palace Grammar School NEC Chapter",
+        "address": "ST-1, Block 19, Federal B Area, Al-Noor",
+        "fees": "5000-15000",
+        "contact": "(021) 36361231-2, 36829440-41",
+        "website": "https://hpgs.edu.pk/",
+        "board": "Sindh Board",
+        "location": "Al-Noor, Karachi"
+    },
+    {
+        "name": "Happy Palace Grammar School N. Nazimabad J-1",
+        "address": "C-208, Block J, North Nazimabad",
+        "fees": "5000-15000",
+        "contact": "(021) 36900008, 36959842",
+        "website": "https://hpgs.edu.pk/",
+        "board": "Sindh Board",
+        "location": "North Nazimabad, Karachi"
+    },
+    {
+        "name": "Happy Palace Grammar School N. Nazimabad J-2",
+        "address": "C-19, Block J, North Nazimabad",
+        "fees": "5000-15000",
+        "contact": "(021) 36637183",
+        "website": "https://hpgs.edu.pk/",
+        "board": "Sindh Board",
+        "location": "North Nazimabad, Karachi"
+    },
+    {
+        "name": "Happy Palace Grammar School N. Nazimabad Block D-1",
+        "address": "ST-05, Block D, North Nazimabad",
+        "fees": "5000-15000",
+        "contact": "(021) 36646553, 36646829",
+        "website": "https://hpgs.edu.pk/",
+        "board": "Sindh Board",
+        "location": "North Nazimabad, Karachi"
+    },
+    {
+        "name": "Happy Palace Grammar School N. Nazimabad Block I-1",
+        "address": "C-13, Block I, North Nazimabad",
+        "fees": "5000-15000",
+        "contact": "(021) 36672441",
+        "website": "https://hpgs.edu.pk/",
+        "board": "Sindh Board",
+        "location": "North Nazimabad, Karachi"
+    },
+    {
+        "name": "Happy Palace Grammar School N. Nazimabad Block I-2",
+        "address": "C-7, Block I, North Nazimabad",
+        "fees": "5000-15000",
+        "contact": "(021) 36646553, 36646829",
+        "website": "https://hpgs.edu.pk/",
+        "board": "Sindh Board",
+        "location": "North Nazimabad, Karachi"
+    },
+    {
+        "name": "Happy Palace Grammar School Gulshan-e-Iqbal G-1",
+        "address": "C-8, Block-13 D, Gulshan-e-Iqbal",
+        "fees": "5000-15000",
+        "contact": "(021) 34809171, 34809172",
+        "website": "https://hpgs.edu.pk/",
+        "board": "Sindh Board",
+        "location": "Gulshan-e-Iqbal, Karachi"
+    },
+    {
+        "name": "Happy Palace Grammar School Gulshan-e-Iqbal G-2",
+        "address": "C-9, Block-13 D, Gulshan-e-Iqbal",
+        "fees": "5000-15000",
+        "contact": "(021) 34986710, 34809171",
+        "website": "https://hpgs.edu.pk/",
+        "board": "Sindh Board",
+        "location": "Gulshan-e-Iqbal, Karachi"
+    },
+    {
+        "name": "Happy Palace Grammar School Gulshan-e-Iqbal G-3",
+        "address": "C-10, Block-13 D, Gulshan-e-Iqbal",
+        "fees": "5000-15000",
+        "contact": "(021) 34987614, 34809171",
+        "website": "https://hpgs.edu.pk/",
+        "board": "Sindh Board",
+        "location": "Gulshan-e-Iqbal, Karachi"
+    },
+    {
+        "name": "Happy Palace Grammar School Abul Hassan Isphani",
+        "address": "E-84, Block-4, Abul Hassan Isphani, Karachi",
+        "fees": "5000-15000",
+        "contact": "(021) 34992282",
+        "website": "https://hpgs.edu.pk/",
+        "board": "Sindh Board",
+        "location": "Abul Hassan Isphani, Karachi"
+    },
+    {
+        "name": "Usman Public School Campus 1",
+        "address": "Block N, North Nazimabad, Karachi",
+        "fees": "5000-20000",
+        "contact": "021-36627126",
+        "website": "https://usman.edu.pk/",
+        "board": "Sindh Board",
+        "location": "North Nazimabad, Karachi"
+    },
+    {
+        "name": "Usman Public School Campus 2",
+        "address": "Sector 11-A, North Karachi, Karachi",
+        "fees": "5000-20000",
+        "contact": "021-36986348",
+        "website": "https://usman.edu.pk/",
+        "board": "Sindh Board",
+        "location": "North Karachi, Karachi"
+    },
+    {
+        "name": "Usman Public School Campus 3",
+        "address": "Block J, North Nazimabad, Karachi",
+        "fees": "5000-20000",
+        "contact": "021-36986548",
+        "website": "https://usman.edu.pk/",
+        "board": "Sindh Board",
+        "location": "North Nazimabad, Karachi"
+    },
+    {
+        "name": "Usman Public School Campus 4",
+        "address": "Block L, North Nazimabad, Karachi",
+        "fees": "5000-20000",
+        "contact": "021-36997753",
+        "website": "https://usman.edu.pk/",
+        "board": "Sindh Board",
+        "location": "North Nazimabad, Karachi"
+    },
+    {
+        "name": "Usman Public School Campus 5",
+        "address": "Sector 11-G, New Karachi, Karachi",
+        "fees": "5000-20000",
+        "contact": "021-36829739",
+        "website": "https://usman.edu.pk/",
+        "board": "Sindh Board",
+        "location": "New Karachi, Karachi"
+    },
+    {
+        "name": "Usman Public School Campus 6",
+        "address": "Block 2, P.E.C.H.S, Karachi",
+        "fees": "5000-20000",
+        "contact": "021-34388704",
+        "website": "https://usman.edu.pk/",
+        "board": "Sindh Board",
+        "location": "P.E.C.H.S, Karachi"
+    },
+    {
+        "name": "Usman Public School Campus 7",
+        "address": "Block 4, P.E.C.H.S, Karachi",
+        "fees": "5000-20000",
+        "contact": "021-34567809",
+        "website": "https://usman.edu.pk/",
+        "board": "Sindh Board",
+        "location": "P.E.C.H.S, Karachi"
+    },
+    {
+        "name": "Usman Public School Campus 8",
+        "address": "Sector 11-A, North Karachi, Karachi",
+        "fees": "5000-20000",
+        "contact": "021-36823563",
+        "website": "https://usman.edu.pk/",
+        "board": "Sindh Board",
+        "location": "North Karachi, Karachi"
+    },
+    {
+        "name": "Usman Public School Campus 9",
+        "address": "New Karachi Town, Karachi",
+        "fees": "5000-20000",
+        "contact": "021-36880301",
+        "website": "https://usman.edu.pk/",
+        "board": "Sindh Board",
+        "location": "New Karachi, Karachi"
+    },
+    {
+        "name": "Usman Public School Campus 10",
+        "address": "Block 1, Gulistan-e-Jauhar, Karachi",
+        "fees": "5000-20000",
+        "contact": "021-34976530",
+        "website": "https://usman.edu.pk/",
+        "board": "Sindh Board",
+        "location": "Gulistan-e-Jauhar, Karachi"
+    },
+    {
+        "name": "Usman Public School Campus 11",
+        "address": "Block 2, Gulistan-e-Jauhar, Karachi",
+        "fees": "5000-20000",
+        "contact": "021-34980220",
+        "website": "https://usman.edu.pk/",
+        "board": "Sindh Board",
+        "location": "Gulistan-e-Jauhar, Karachi"
+    },
+    {
+        "name": "Usman Public School Campus 12",
+        "address": "Block 5, P.E.C.H.S, Karachi",
+        "fees": "5000-20000",
+        "contact": "021-34512345",
+        "website": "https://usman.edu.pk/",
+        "board": "Sindh Board",
+        "location": "P.E.C.H.S, Karachi"
+    },
+    {
+        "name": "Usman Public School Campus 13",
+        "address": "Sector Z-6, Gulshan-e-Maymar, Karachi",
+        "fees": "5000-20000",
+        "contact": "021-36824789",
+        "website": "https://usman.edu.pk/",
+        "board": "Sindh Board",
+        "location": "Gulshan-e-Maymar, Karachi"
+    },
+    {
+        "name": "Usman Public School Campus 14",
+        "address": "Sector 51-A, Gulshan-e-Maymar, Karachi",
+        "fees": "5000-20000",
+        "contact": "021-34987654",
+        "website": "https://usman.edu.pk/",
+        "board": "Sindh Board",
+        "location": "Gulshan-e-Maymar, Karachi"
+    },
+    {
+        "name": "Usman Public School Campus 15",
+        "address": "Block F, North Nazimabad, Karachi",
+        "fees": "5000-20000",
+        "contact": "021-36986548",
+        "website": "https://usman.edu.pk/",
+        "board": "Sindh Board",
+        "location": "North Nazimabad, Karachi"
+    },
+    {
+        "name": "Usman Public School Campus 16",
+        "address": "Block 16, Federal B Area, Karachi",
+        "fees": "5000-20000",
+        "contact": "021-34987655",
+        "website": "https://usman.edu.pk/",
+        "board": "Sindh Board",
+        "location": "Federal B Area, Karachi"
+    },
+    {
+        "name": "Usman Public School Campus 17",
+        "address": "Block 16, Federal B Area, Karachi",
+        "fees": "5000-20000",
+        "contact": "021-34987656",
+        "website": "https://usman.edu.pk/",
+        "board": "Sindh Board",
+        "location": "Federal B Area, Karachi"
+    },
+    {
+        "name": "Usman Public School Campus 18",
+        "address": "Block 1, Gulistan-e-Jauhar, Karachi",
+        "fees": "5000-20000",
+        "contact": "021-34987657",
+        "website": "https://usman.edu.pk/",
+        "board": "Sindh Board",
+        "location": "Gulistan-e-Jauhar, Karachi"
+    },
+    {
+        "name": "Usman Public School Campus 19",
+        "address": "Block 2, Gulistan-e-Jauhar, Karachi",
+        "fees": "5000-20000",
+        "contact": "021-34987658",
+        "website": "https://usman.edu.pk/",
+        "board": "Sindh Board",
+        "location": "Gulistan-e-Jauhar, Karachi"
+    },
+    {
+        "name": "Usman Public School Campus 20",
+        "address": "Sector 11-A, North Karachi, Karachi",
+        "fees": "5000-20000",
+        "contact": "021-34987659",
+        "website": "https://usman.edu.pk/",
+        "board": "Sindh Board",
+        "location": "North Karachi, Karachi"
+    },
+    {
+        "name": "Usman Public School Campus 21",
+        "address": "New Karachi Town, Karachi",
+        "fees": "5000-20000",
+        "contact": "021-34987660",
+        "website": "https://usman.edu.pk/",
+        "board": "Sindh Board",
+        "location": "New Karachi, Karachi"
+    },
+    {
+        "name": "Usman Public School Campus 22",
+        "address": "Block J, North Nazimabad, Karachi",
+        "fees": "5000-20000",
+        "contact": "021-34987661",
+        "website": "https://usman.edu.pk/",
+        "board": "Sindh Board",
+        "location": "North Nazimabad, Karachi"
+    },
+    {
+        "name": "Usman Public School Campus 23",
+        "address": "Block L, North Nazimabad, Karachi",
+        "fees": "5000-20000",
+        "contact": "021-34987662",
+        "website": "https://usman.edu.pk/",
+        "board": "Sindh Board",
+        "location": "North Nazimabad, Karachi"
+    },
+    {
+        "name": "Usman Public School Campus 24",
+        "address": "Block 2, P.E.C.H.S, Karachi",
+        "fees": "5000-20000",
+        "contact": "021-34987663",
+        "website": "https://usman.edu.pk/",
+        "board": "Sindh Board",
+        "location": "P.E.C.H.S, Karachi"
+    },
+    {
+        "name": "Usman Public School Campus 25",
+        "address": "Block 4, P.E.C.H.S, Karachi",
+        "fees": "5000-20000",
+        "contact": "021-34987664",
+        "website": "https://usman.edu.pk/",
+        "board": "Sindh Board",
+        "location": "P.E.C.H.S, Karachi"
+    },
+    {
+        "name": "Usman Public School Campus 26",
+        "address": "Block 5, P.E.C.H.S, Karachi",
+        "fees": "5000-20000",
+        "contact": "021-34987665",
+        "website": "https://usman.edu.pk/",
+        "board": "Sindh Board",
+        "location": "P.E.C.H.S, Karachi"
+    },
+    {
+        "name": "Usman Public School Campus 27",
+        "address": "Sector Z-6, Gulshan-e-Maymar, Karachi",
+        "fees": "5000-20000",
+        "contact": "021-34987666",
+        "website": "https://usman.edu.pk/",
+        "board": "Sindh Board",
+        "location": "Gulshan-e-Maymar, Karachi"
+    },
+    {
+        "name": "Usman Public School Campus 28",
+        "address": "Sector 51-A, Gulshan-e-Maymar, Karachi",
+        "fees": "5000-20000",
+        "contact": "021-34987667",
+        "website": "https://usman.edu.pk/",
+        "board": "Sindh Board",
+        "location": "Gulshan-e-Maymar, Karachi"
+    },
+    {
+        "name": "Usman Public School Campus 29",
+        "address": "Block 16, Federal B Area, Karachi",
+        "fees": "5000-20000",
+        "contact": "021-34987668",
+        "website": "https://usman.edu.pk/",
+        "board": "Sindh Board",
+        "location": "Federal B Area, Karachi"
+    },
+    {
+        "name": "Usman Public School Campus 30",
+        "address": "Block 16, Federal B Area, Karachi",
+        "fees": "5000-20000",
+        "contact": "021-34987669",
+        "website": "https://usman.edu.pk/",
+        "board": "Sindh Board",
+        "location": "Federal B Area, Karachi"
+    },
+    {
+        "name": "White House Grammar School",
+        "address": "Block-4, Gulshan-e-Iqbal, Karachi",
+        "fees": "15000-30000",
+        "contact": "(0)21-34991119",
+        "website": "https://www.whitehouse.edu.pk/",
+        "board": "Cambridge",
+        "location": "Gulshan-e-Iqbal, Karachi"
+    },
+    {
+        "name": "Mama Parsi",
+        "address": "M.A Jinnah Rd",
+        "fees": "20000-30000",
+        "contact": "(021) 32720224",
+        "website": null,
+        "board": "Cambridge",
+        "location": "M.A Jinnah Rd, Karachi"
+    },
+    {
+        "name": "Mama Parsi",
+        "address": "M.A Jinnah Rd",
+        "fees": "20000-30000",
+        "contact": "(021) 32720224",
+        "website": null,
+        "board": "Sindh Board",
+        "location": "M.A Jinnah Rd, Karachi"
+    },
+    {
+        "name": "Habib Public School",
+        "address": "Sultanabad Karachi",
+        "fees": "10000-20000",
+        "contact": "(021) 35652437",
+        "website": "https://habibschools.edu.pk/",
+        "board": "Cambridge",
+        "location": "Sultanabad, Karachi"
+    },
+    {
+        "name": "Habib Public School",
+        "address": "Sultanabad Karachi",
+        "fees": "30000-40000",
+        "contact": "(021) 35652437",
+        "website": "https://habibschools.edu.pk/",
+        "board": "Cambridge",
+        "location": "Sultanabad, Karachi"
+    },
+    {
+        "name": "Shaheen Cambridge School Nazimabad No. 1",
+        "address": "Nazimabad No. 1, Karachi",
+        "fees": "30000-40000",
+        "contact": "(021) 12345678",
+        "website": null,
+        "board": "Cambridge",
+        "location": "Nazimabad, Karachi"
+    },
+    {
+        "name": "Shaheen Cambridge School Campus 2",
+        "address": "Gulshan-e-Iqbal, Karachi",
+        "fees": "30000-40000",
+        "contact": "(021) 23456789",
+        "website": null,
+        "board": "Cambridge",
+        "location": "Gulshan-e-Iqbal, Karachi"
+    },
+    {
+        "name": "Shaheen Cambridge School Campus 3",
+        "address": "North Nazimabad, Karachi",
+        "fees": "30000-40000",
+        "contact": "(021) 34567890",
+        "website": null,
+        "board": "Cambridge",
+        "location": "North Nazimabad, Karachi"
+    },
+    {
+        "name": "Shaheen Cambridge School Campus 4",
+        "address": "Clifton, Karachi",
+        "fees": "30000-40000",
+        "contact": "(021) 45678901",
+        "website": null,
+        "board": "Cambridge",
+        "location": "Clifton, Karachi"
+    },
+    {
+        "name": "Shaheen Cambridge School Nazimabad No. 1",
+        "address": "Nazimabad No. 1, Karachi",
+        "fees": "30000-40000",
+        "contact": "(021) 12345678",
+        "website": null,
+        "board": "Sindh Board",
+        "location": "Nazimabad, Karachi"
+    },
+    {
+        "name": "Shaheen Cambridge School Campus 2",
+        "address": "Gulshan-e-Iqbal, Karachi",
+        "fees": "30000-40000",
+        "contact": "(021) 23456789",
+        "website": null,
+        "board": "Sindh Board",
+        "location": "Gulshan-e-Iqbal, Karachi"
+    },
+    {
+        "name": "Shaheen Cambridge School Campus 3",
+        "address": "North Nazimabad, Karachi",
+        "fees": "30000-40000",
+        "contact": "(021) 34567890",
+        "website": null,
+        "board": "Sindh Board",
+        "location": "North Nazimabad, Karachi"
+    },
+    {
+        "name": "Shaheen Cambridge School Campus 4",
+        "address": "Clifton, Karachi",
+        "fees": "30000-40000",
+        "contact": "(021) 45678901",
+        "website": null,
+        "board": "Sindh Board",
+        "location": "Clifton, Karachi"
+    },
+    {
+        "name": "The City School",
+        "address": "North Nazimabad Boys Campus",
+        "fees": "20000-30000",
+        "contact": "(021) 36721529",
+        "website": "https://thecityschool.edu.pk/",
+        "board": "Sindh Board",
+        "location": "North Nazimabad, Karachi"
+    },
+    {
+        "name": "The City School",
+        "address": "Gulshan Junior Campus",
+        "fees": "20000-30000",
+        "contact": "(021) 34810604",
+        "website": "https://thecityschool.edu.pk/",
+        "board": "Sindh Board",
+        "location": "Gulshan, Karachi"
+    },
+    {
+        "name": "The City School",
+        "address": "Gulshan e Maymar Campus",
+        "fees": "20000-30000",
+        "contact": "(021) 36350029",
+        "website": "https://thecityschool.edu.pk/",
+        "board": "Sindh Board",
+        "location": "Gulshan-e-Maymar, Karachi"
+    },
+    {
+        "name": "The City School",
+        "address": "PAF Chapter",
+        "fees": "20000-30000",
+        "contact": "(021) 34544106",
+        "website": "https://thecityschool.edu.pk/",
+        "board": "Sindh Board",
+        "location": "PAF Chapter, Karachi"
+    },
+    {
+        "name": "The City School",
+        "address": "Gulistan-E-Johar Campus",
+        "fees": "5000-10000",
+        "contact": "(021) 34661599",
+        "website": "https://thecityschool.edu.pk/",
+        "board": "Sindh Board",
+        "location": "Gulistan-e-Jauhar, Karachi"
+    },
+    {
+        "name": "The City School",
+        "address": "North Nazimabad Boys Campus",
+        "fees": "20000-30000",
+        "contact": "(021) 36721529",
+        "website": "https://thecityschool.edu.pk/",
+        "board": "Cambridge",
+        "location": "North Nazimabad, Karachi"
+    },
+    {
+        "name": "The City School",
+        "address": "Gulshan Junior Campus",
+        "fees": "20000-30000",
+        "contact": "(021) 34810604",
+        "website": "https://thecityschool.edu.pk/",
+        "board": "Cambridge",
+        "location": "Gulshan, Karachi"
+    },
+    {
+        "name": "The City School",
+        "address": "Gulshan e Maymar Campus",
+        "fees": "20000-30000",
+        "contact": "(021) 36350029",
+        "website": "https://thecityschool.edu.pk/",
+        "board": "Cambridge",
+        "location": "Gulshan-e-Maymar, Karachi"
+    },
+    {
+        "name": "The City School",
+        "address": "PAF Chapter",
+        "fees": "20000-30000",
+        "contact": "(021) 34544106",
+        "website": "https://thecityschool.edu.pk/",
+        "board": "Cambridge",
+        "location": "PAF Chapter, Karachi"
+    },
+    {
+        "name": "The City School",
+        "address": "Gulistan-E-Johar Campus",
+        "fees": "5000-10000",
+        "contact": "(021) 34661599",
+        "website": "https://thecityschool.edu.pk/",
+        "board": "Cambridge",
+        "location": "Gulistan-e-Jauhar, Karachi"
+    },
+    {
+        "name": "The Metropolitan Academy, Naseerabad",
+        "address": "B-33/13, Federal B Area",
+        "fees": "5000-10000",
+        "contact": "(021) 36363629, 36800252",
+        "website": null,
+        "board": "Sindh Board",
+        "location": "Federal B Area, Karachi"
+    },
+    {
+        "name": "The Metropolitan Academy, Gulistan-e-Jauhar",
+        "address": "St-18 Block 15, Gulistan-e-Jauhar",
+        "fees": "5000-10000",
+        "contact": "(0300) 2395588",
+        "website": null,
+        "board": "Sindh Board",
+        "location": "Gulistan-e-Jauhar, Karachi"
+    },
+    {
+        "name": "The Metropolitan Academy, Gulshan-e-Iqbal",
+        "address": "Block No.1, Gulshan-e-Iqbal",
+        "fees": "5000-10000",
+        "contact": "(021) 34832511",
+        "website": null,
+        "board": "Sindh Board",
+        "location": "Gulshan-e-Iqbal, Karachi"
+    },
+    {
+        "name": "The Metropolitan Academy, North Karachi",
+        "address": "Block A, North Karachi",
+        "fees": "5000-10000",
+        "contact": "(021) 36955921",
+        "website": null,
+        "board": "Sindh Board",
+        "location": "North Karachi, Karachi"
+    },
+    {
+        "name": "The Metropolitan Foundation School, Azizabad",
+        "address": "Azizabad",
+        "fees": "5000-10000",
+        "contact": null,
+        "website": null,
+        "board": "Sindh Board",
+        "location": "Azizabad, Karachi"
+    },
+    {
+        "name": "The Metropolitan Academy, Naseerabad",
+        "address": "B-33/13, Federal B Area",
+        "fees": "5000-10000",
+        "contact": "(021) 36363629, 36800252",
+        "website": null,
+        "board": "Cambridge",
+        "location": "Federal B Area, Karachi"
+    },
+    {
+        "name": "The Metropolitan Academy, Gulistan-e-Jauhar",
+        "address": "St-18 Block 15, Gulistan-e-Jauhar",
+        "fees": "5000-10000",
+        "contact": "(0300) 2395588",
+        "website": null,
+        "board": "Cambridge",
+        "location": "Gulistan-e-Jauhar, Karachi"
+    },
+    {
+        "name": "The Metropolitan Academy, Gulshan-e-Iqbal",
+        "address": "Block No.1, Gulshan-e-Iqbal",
+        "fees": "5000-10000",
+        "contact": "(021) 34832511",
+        "website": null,
+        "board": "Cambridge",
+        "location": "Gulshan-e-Iqbal, Karachi"
+    },
+    {
+        "name": "The Metropolitan Academy, North Karachi",
+        "address": "Block A, North Karachi",
+        "fees": "5000-10000",
+        "contact": "(021) 36955921",
+        "website": null,
+        "board": "Cambridge",
+        "location": "North Karachi, Karachi"
+    },
+    {
+        "name": "The Metropolitan Foundation School, Azizabad",
+        "address": "Azizabad",
+        "fees": "5000-10000",
+        "contact": null,
+        "website": null,
+        "board": "Cambridge",
+        "location": "Azizabad, Karachi"
+    },
+    {
+        "name": "Saifiyah Girls School",
+        "address": "Saddar, Karachi",
+        "fees": "5000-15000",
+        "contact": "92-21-3454-7890",
+        "website": "https://saifiyahgirls.com/",
+        "board": "Sindh Board",
+        "location": "Saddar, Karachi"
+    },
+    {
+        "name": "Syed Sulaiman Nadvi Secondary School",
+        "address": "Sector 11 1/2, Orangi Town, Karachi",
+        "fees": "5000-15000",
+        "contact": "92-21-1234-5678",
+        "website": "https://taleemihub.com/karachi/school/syed-suleman-nadvi-memorial-sec-school/",
+        "board": "Sindh Board",
+        "location": "Orangi Town, Karachi"
+    },
+    {
+        "name": "Dawood Public School",
+        "address": "Bahadurabad, Karachi",
+        "fees": "10000-20000",
+        "contact": "92-21-111-666-555",
+        "website": null,
+        "board": "Sindh Board",
+        "location": "Bahadurabad, Karachi"
+    },
+    {
+        "name": "Dawood Public School",
+        "address": "Bahadurabad, Karachi",
+        "fees": "10000-20000",
+        "contact": "92-21-111-666-555",
+        "website": null,
+        "board": "Cambridge",
+        "location": "Bahadurabad, Karachi"
+    },
+    {
+        "name": "Al Heara Secondary School",
+        "address": "Korangi, Karachi",
+        "fees": "30000-40000",
+        "contact": "92-21-2345-6789",
+        "website": null,
+        "board": "Sindh Board",
+        "location": "Korangi, Karachi"
+    },
+    {
+        "name": "Karachi Public High School",
+        "address": "Gulshan-e-Iqbal, Karachi",
+        "fees": "30000-40000",
+        "contact": "92-21-3456-7890",
+        "website": null,
+        "board": "Sindh Board",
+        "location": "Gulshan-e-Iqbal, Karachi"
+    },
+    {
+        "name": "Programmer Girls School",
+        "address": "North Nazimabad, Karachi",
+        "fees": "5000-10000",
+        "contact": "92-21-4567-8901",
+        "website": null,
+        "board": "Sindh Board",
+        "location": "North Nazimabad, Karachi"
+    },
+    {
+        "name": "AES School for Girls (Overseas Campus)",
+        "address": "Gulistan-e-Johar, Karachi, Pakistan",
+        "fees": "15000-30000",
+        "contact": "92-2134630791",
+        "website": "http://www.aes.edu.pk/",
+        "board": "Sindh Board",
+        "location": "Gulistan-e-Jauhar, Karachi"
+    },
+    {
+        "name": "AES School for Girls (Main Campus)",
+        "address": "Gulistan-e-Johar, Karachi, Pakistan",
+        "fees": "10000-20000",
+        "contact": "92-2134618703",
+        "website": "http://www.aes.edu.pk/",
+        "board": "Sindh Board",
+        "location": "Gulistan-e-Jauhar, Karachi"
+    },
+    {
+        "name": "AES School for Girls (Overseas Campus)",
+        "address": "Gulistan-e-Johar, Karachi, Pakistan",
+        "fees": "15000-30000",
+        "contact": "92-2134630791",
+        "website": "http://www.aes.edu.pk/",
+        "board": "Cambridge",
+        "location": "Gulistan-e-Jauhar, Karachi"
+    },
+    {
+        "name": "AES School for Girls (Main Campus)",
+        "address": "Gulistan-e-Johar, Karachi, Pakistan",
+        "fees": "10000-20000",
+        "contact": "92-2134618703",
+        "website": "http://www.aes.edu.pk/",
+        "board": "Cambridge",
+        "location": "Gulistan-e-Jauhar, Karachi"
+    },
+    {
+        "name": "Federal Secondary school",
+        "address": "\nC-85 BLOCK 10 FB AREA, Karachi, Pakistan",
+        "fees": "5000-15000",
+        "contact": "021-36369977",
+        "website": null,
+        "board": "Sindh Board",
+        "location": "Federal B Area, Karachi"
+    },
+    {
+        "name": "Federal Secondary school",
+        "address": "Center Point Phase-1, Federal B Area Block 21 Gulberg Town",
+        "fees": "5000-15000",
+        "contact": "021-36367982",
+        "website": null,
+        "board": "Sindh Board",
+        "location": "Gulshan, Karachi"
+    },
+    {
+        "name": "Mark School System",
+        "address": "D-3, Block 7, Gulshan Iqbal Near Disco Bakery, Karachi",
+        "fees": "10000-20000",
+        "contact": "033-1 8444151",
+        "website": "themarkschool.com",
+        "board": "Sindh Board",
+        "location": "Gulshan-e-Iqbal, Karachi"
+    },
+    {
+        "name": "The Benchmark ",
+        "address": "E 82, Block 4 Gulshan-e-Iqbal, Karachi, Karachi City, Sindh 75300, Pakistan",
+        "fees": "10000-20000",
+        "contact": "021-34800933",
+        "website": "https://thebenchmark.com.pk/",
+        "board": "Sindh Board",
+        "location": "Gulshan-e-Iqbal, Karachi"
+    },
+    {
+        "name": "The Benchmark ",
+        "address": " Block 7 Gulshan-e-Iqbal, Karachi, Karachi City, Sindh, Pakistan",
+        "fees": "10000-20000",
+        "contact": "021-34804887",
+        "website": "http://www.thebenchmark.com.pk/",
+        "board": "Cambridge",
+        "location": "Gulshan-e-Iqbal, Karachi"
+    },
+    {
+        "name": "The Benchmark ",
+        "address": "D3, Block 6 Gulshan-e-Iqbal, Karachi, Karachi City, Sindh, Pakistan",
+        "fees": "10000-20000",
+        "contact": "021-34810074",
+        "website": "http://www.thebenchmark.com.pk/",
+        "board": "Cambridge",
+        "location": "Gulshan-e-Iqbal, Karachi"
+    },
+    {
+        "name": "Falconhouse Grammar School",
+        "address": "Plot # ST-03/B Block F",
+        "fees": "5000-15000",
+        "contact": "021-36643686",
+        "website": "http://www.falconhouse.edu.pk/",
+        "board": "Sindh Board",
+        "location": "North Nazimabad, Karachi"
+    },
+    {
+        "name": "Dar-e-Arqam School",
+        "address": "House # C-87 Block 13, Gulistan-e- Jauhar Karachi",
+        "fees": "3000-8000",
+        "contact": "021-34023555",
+        "website": "https://das.edu.pk/",
+        "board": "Hifz program",
+        "location": "Gulistan-e-Jauhar, Karachi"
+    },
+    {
+        "name": "Dar-e-Arqam School",
+        "address": "House # D-1, Block-4 F.B Area Karachi",
+        "fees": "3000-8000",
+        "contact": "021-36315500",
+        "website": "https://das.edu.pk/",
+        "board": "Hifz program",
+        "location": "Federal B Area, Karachi"
+    },
+    {
+        "name": "Dar-e-Arqam School",
+        "address": "House # 2/65-A, Block-2 Shah Faisal Colony Karachi.",
+        "fees": "3000-8000",
+        "contact": "021-34574465",
+        "website": "https://das.edu.pk/",
+        "board": "Hifz program",
+        "location": "Shah Faisal Colony, Karachi"
+    },
+    {
+        "name": "Dar-e-Arqam School",
+        "address": "House # B-350, Block-N, North Nazimabad,Karachi.",
+        "fees": "3000-8000",
+        "contact": "021-36897201",
+        "website": "https://das.edu.pk/",
+        "board": "Hifz program",
+        "location": "Federal B Area, Karachi"
+    },
+    {
+        "name": "Dar-e-Arqam School",
+        "address": "House # C-2, Block-T, North Nazmiabad, Karachi",
+        "fees": "3000-8000",
+        "contact": "021-36670066",
+        "website": "https://das.edu.pk/",
+        "board": "Hifz program",
+        "location": "Federal B Area, Karachi"
+    },
+    {
+        "name": "Dar-e-Arqam School",
+        "address": "House # E-78, Block-6, PECHS,Near Green belt family park, Karachi",
+        "fees": "3000-8000",
+        "contact": "021-34372225",
+        "website": "https://das.edu.pk/",
+        "board": "Hifz program",
+        "location": "P.E.C.H.S, Karachi"
+    },
+    {
+        "name": "Dar-e-Arqam School",
+        "address": "House # C-24, Phase 1 Extension,Gulshan-e-Hadeed,Karachi.",
+        "fees": "3000-8000",
+        "contact": "021-34718070",
+        "website": "https://das.edu.pk/",
+        "board": "Hifz program",
+        "location": "Gulshan-e-Hadeed, Karachi"
+    },
+    {
+        "name": "Dar-e-Arqam School",
+        "address": "House # D-20, Block-10-A, Near Toyota Showroom Main Rashid Minhas Road Karachi",
+        "fees": "3000-8000",
+        "contact": "021-34621140",
+        "website": "https://das.edu.pk/",
+        "board": "Hifz program",
+        "location": "Gulshan-e-Iqbal, Karachi"
+    },
+    {
+        "name": "Dar-e-Arqam School",
+        "address": "House # 859 Block -M,Muhammad Mustafa Colony ,Sector :11 1/2 Near Rehmat Chowk,",
+        "fees": "3000-8000",
+        "contact": "0331-3732987",
+        "website": "https://das.edu.pk/",
+        "board": "Hifz program",
+        "location": "Orangi Town, Karachi"
+    },
+    {
+        "name": "The City School ",
+        "address": "D-28/29, D-28/29 Shahrah-Sher Shah Suri Service Rd N, Block D North Nazimabad Town, Karachi, Karachi City, Sindh 74700, Pakistan",
+        "fees": "3000-8000",
+        "contact": "021-36721529",
+        "website": "https://thecityschool.edu.pk/",
+        "board": "Cambridge",
+        "location": "North Nazimabad, Karachi"
+    },
+    {
+        "name": "Veritas Learning Circle",
+        "address": "E, Block, 39, 06 Shahrah-e-Faisal Rd, Block 6 P.E.C.H.S., Karachi, Karachi City, Sindh, Pakistan",
+        "fees": "3000-8000",
+        "contact": "030-41111852",
+        "website": "https://www.vlc.org.pk/about-us/",
+        "board": "Sindh Board",
+        "location": "P.E.C.H.S, Karachi"
+    },
+    {
+        "name": "Veritas Learning Circle",
+        "address": "Plot 39 C4, Block-6 Block 6 P.E.C.H.S., Karachi, Karachi City, Sindh",
+        "fees": "3000-8000",
+        "contact": "0304 1111852",
+        "website": "https://www.vlc.org.pk/",
+        "board": "Sindh Board",
+        "location": "P.E.C.H.S, Karachi"
+    },
+    {
+        "name": "Falconhouse Grammar School Campus 2",
+        "address": "D-48, Block H North Nazimabad Town, Karachi, Karachi City, Sindh 74600, Pakistan",
+        "fees": "5000-15000",
+        "contact": "021-36641355",
+        "website": "http://www.falconhouse.edu.pk/",
+        "board": "Sindh Board",
+        "location": "North Nazimabad, Karachi"
+    },
+    {
+        "name": "Falcon House Grammar School",
+        "address": "D-2, Block 4 Gulshan-e-Iqbal, Karachi, Karachi City, Sindh, Pakistan",
+        "fees": "5000-15000",
+        "contact": "021-36641355",
+        "website": "http://www.falconhouse.edu.pk/",
+        "board": "Sindh Board",
+        "location": "Gulshan-e-Iqbal, Karachi"
+    },
+    {
+        "name": "Falcon House Grammar School",
+        "address": "Allama Rasheed Turabi Rd, Block F North Nazimabad Town, Karachi, Karachi City, Sindh 74600, Pakistan",
+        "fees": "5000-15000",
+        "contact": null,
+        "website": null,
+        "board": "Sindh Board",
+        "location": "North Nazimabad, Karachi"
+    },
+    {
+        "name": "Falconhouse Grammar School Campus 5",
+        "address": "Sharah-e-Humayun, Block F North Nazimabad Town, Karachi, Karachi City, Sindh, Pakistan",
+        "fees": "5000-15000",
+        "contact": "021-36642765",
+        "website": "http://falconhouse.edu.pk/",
+        "board": "Sindh Board",
+        "location": "North Nazimabad, Karachi"
+    },
+    {
+        "name": "Falconhouse Grammar School Main branch",
+        "address": "Block F North Nazimabad Town, Karachi, Karachi City, Sindh, Pakistan",
+        "fees": "5000-15000",
+        "contact": "021-36643803",
+        "website": "http://www.falconhouse.edu.pk/",
+        "board": "Sindh Board",
+        "location": "North Nazimabad, Karachi"
+    },
+    {
+        "name": "Falconhouse Grammar School Regional Office",
+        "address": "Block F North Nazimabad Town, Karachi, Karachi City, Sindh, Pakistan",
+        "fees": "5000-15000",
+        "contact": "021-36645048",
+        "website": "http://www.falconhouse.edu.pk/",
+        "board": "Sindh Board",
+        "location": "North Nazimabad, Karachi"
+    },
+    {
+        "name": "Falconhouse Grammar School Campus 1",
+        "address": "Sharah-e-Humayun, Block-B Block B North Nazimabad Town, Karachi, Karachi City, Sindh 74600, Pakistan",
+        "fees": "5000-15000",
+        "contact": "021-36643685",
+        "website": "http://falconhouse.edu.pk/",
+        "board": "Sindh Board",
+        "location": "North Nazimabad, Karachi"
+    },
+    {
+        "name": "Falconhouse Grammar School A level Campus",
+        "address": "Block F North Nazimabad Town, Karachi, Karachi City, Sindh 74600, Pakistan",
+        "fees": "5000-15000",
+        "contact": "021-36673068",
+        "website": "http://www.falconhouse.edu.pk/",
+        "board": "Sindh Board",
+        "location": "North Nazimabad, Karachi"
+    },
+    {
+        "name": "Falconhouse Grammar School",
+        "address": "Street Number 8, Sector 11-A Sector 11 A North Karachi Twp, Karachi, Karachi City, Sindh, Pakistan",
+        "fees": "5000-15000",
+        "contact": "021-36906877",
+        "website": "http://www.falconhouse.edu.pk/",
+        "board": "Sindh Board",
+        "location": "North Karachi, Karachi"
+    },
+    {
+        "name": "Falcon House Grammar School Campus 6",
+        "address": "Nazimabad No. 4 Block 4 Nazimabad, Karachi, Karachi City, Sindh 74600, Pakistan",
+        "fees": "5000-15000",
+        "contact": "030-52504056",
+        "website": "http://www.falconhouse.edu.pk/",
+        "board": "Sindh Board",
+        "location": "Nazimabad, Karachi"
+    },
+    {
+        "name": "Falconhouse Grammar School. (AL-AMNA CAMPUS)",
+        "address": "Plot #, ST 20, Sector 5-I Sector 5 M North Karachi Twp, Karachi, Karachi City, Sindh, Pakistan",
+        "fees": "5000-15000",
+        "contact": "021-36836814",
+        "website": "http://www.falconhouse.edu.pk/",
+        "board": "Sindh Board",
+        "location": "North Karachi, Karachi"
+    },
+    {
+        "name": "Falcon house grammar school",
+        "address": "Block 14 Gulistan-e-Johar, Karachi, Karachi City, Sindh, Pakistan",
+        "fees": "5000-15000",
+        "contact": "034-12352305",
+        "website": "http://www.falconhouse.edu.pk/",
+        "board": "Sindh Board",
+        "location": "Gulistan-e-Jauhar, Karachi"
+    },
+    {
+        "name": "Falconhouse Grammar School Campus-09",
+        "address": "ST-2, Main University Rd, Block 7 Gulistan-e-Johar, Karachi, Karachi City, Sindh 75270, Pakistan",
+        "fees": "5000-15000",
+        "contact": "021-34664687",
+        "website": "http://www.falconhouse.edu.pk/",
+        "board": "Sindh Board",
+        "location": "Gulistan-e-Jauhar, Karachi"
+    },
+    {
+        "name": "Falcon House Grammar School",
+        "address": "Sector 5 Surjani Town, Karachi, Karachi City, Sindh, Pakistan",
+        "fees": "5000-15000",
+        "contact": "032-5238645",
+        "website": "http://www.falconhouse.edu.pk/",
+        "board": "Sindh Board",
+        "location": "Surjani Town, Karachi"
+    },
+    {
+        "name": "Falconhouse Grammar School",
+        "address": "Sadiq Husain Rd, Sector X-2 Sector X Gulshan-e-Maymar, Karachi, Karachi City, Sindh, Pakistan",
+        "fees": "5000-15000",
+        "contact": "021-36833292",
+        "website": "http://www.falconhouse.edu.pk/",
+        "board": "Sindh Board",
+        "location": "Gulshan-e-Maymar, Karachi"
+    },
+    {
+        "name": "Falconhouse grammar school",
+        "address": "The ABC School St, Block 3 Shah Faisal Colony 3 Shah Faisal Colony, Karachi, Karachi City, Sindh, Pakistan",
+        "fees": "5000-15000",
+        "contact": "033-67733770",
+        "website": "http://www.falconhouse.edu.pk/",
+        "board": "Sindh Board",
+        "location": "Shah Faisal Colony, Karachi"
+    },
+    {
+        "name": "FalconHouse Grammer School Orangi Campus",
+        "address": " Rehmat Chowk Chowk, Gulzar e Madina Colony, Karachi, Karachi City, Sindh, Pakistan",
+        "fees": "5000-15000",
+        "contact": "033-67733770",
+        "website": null,
+        "board": "Sindh Board",
+        "location": "Gulzar e Madina Colony, Karachi"
+    },
+    {
+        "name": "Falconhouse Grammar School",
+        "address": "near BROADWAY Pizza, Napier Quarter, Karachi, Karachi City, Sindh, Pakistan",
+        "fees": "5000-15000",
+        "contact": "021-36833292",
+        "website": "http://www.falconhouse.edu.pk/",
+        "board": "Sindh Board",
+        "location": "Napier Quarter, Karachi"
+    },
+    {
+        "name": "Falconhouse Grammer - Maymar Chapter",
+        "address": "Sector Z 4 Sector Z Gulshan-e-Maymar, Karachi, Karachi City, Sindh, Pakistan",
+        "fees": "5000-15000",
+        "contact": "033-43054014",
+        "website": "http://www.falconhouse.edu.pk/",
+        "board": "Sindh Board",
+        "location": "Gulshan-e-Maymar, Karachi"
+    },
+    {
+        "name": "Programmer School",
+        "address": "3 Lane Shahra-E-Usman, Sector 11 B North Karachi Twp, Karachi, Karachi City, Sindh, Pakistan",
+        "fees": "5000-15000",
+        "contact": "021-36943570",
+        "website": null,
+        "board": "Sindh Board",
+        "location": "North Karachi, Karachi"
+    },
+    {
+        "name": "The Programmers School",
+        "address": "Sector 11 A North Karachi Twp, Karachi, Karachi City, Sindh, Pakistan",
+        "fees": "5000-15000",
+        "contact": "034-53105877",
+        "website": null,
+        "board": "Sindh Board",
+        "location": "North Karachi, Karachi"
+    },
+    {
+        "name": "The Programmer School",
+        "address": "Sector 11-A Sector 11 B North Karachi Twp, Karachi, Karachi City, Sindh, Pakistan",
+        "fees": "5000-15000",
+        "contact": "034-52226358",
+        "website": null,
+        "board": "Sindh Board",
+        "location": "North Karachi, Karachi"
+    },
+    {
+        "name": "Programmer foundation school",
+        "address": "11-A Al-Amna Ave\nKarachi 75850 Al-Amna Ave, Sector 8 North Karachi Twp, Karachi, Karachi City, Sindh 75850, Pakistan",
+        "fees": "5000-15000",
+        "contact": "021-36422209",
+        "website": null,
+        "board": "Sindh Board",
+        "location": "North Karachi, Karachi"
+    },
+    {
+        "name": "The Royal City School System",
+        "address": "R-8 & 152, Federal B Area Sharifabad Block 1 Karachi, 75950, Pakistan",
+        "fees": "5000-15000",
+        "contact": "033-46370863",
+        "website": "http://royalcity.com.pk/",
+        "board": "Sindh Board",
+        "location": "Sharifabad, Karachi"
+    },
+    {
+        "name": "Programmer School",
+        "address": "DHA, Karachi",
+        "fees": "5000-15000",
+        "contact": "021-23456789",
+        "website": null,
+        "board": "Cambridge",
+        "location": "DHA, Karachi"
+    },
+    {
+        "name": "Programmer School",
+        "address": "Gulshan-e-Iqbal, Karachi",
+        "fees": "3000-8000",
+        "contact": "021-34567890",
+        "website": null,
+        "board": "Cambridge",
+        "location": "Gulshan-e-Iqbal, Karachi"
+    },
+    {
+        "name": "Royal Public Academy",
+        "address": "Plot#53, Sector 4/F, Quaid-e-Awam colony, Mominabad, Karachi, Pakistan",
+        "fees": "3000-8000",
+        "contact": null,
+        "website": null,
+        "board": "Sindh Board",
+        "location": "Mominabad, Karachi"
+    },
+    {
+        "name": "City public school",
+        "address": "Sec-4 W-9 stop ajmer nagri thana, North Karachi Twp, 75850, Pakistan",
+        "fees": "3000-8000",
+        "contact": "030-39134048",
+        "website": null,
+        "board": "Sindh Board",
+        "location": "North Karachi, Karachi"
+    },
+    {
+        "name": "International school of karachi",
+        "address": "D-106, Block 2, Clifton. Karachi. Pakistan.",
+        "fees": "15000-30000",
+        "contact": "021-35291432",
+        "website": "https://iskschool.edupage.org/",
+        "board": "Cambridge",
+        "location": "Clifton, Karachi"
+    },
+    {
+        "name": "Bay View School",
+        "address": "Plot ST 22 Marine Promenade Block 1 Clifton Karachi.",
+        "fees": "40000-50000",
+        "contact": "021-37235224",
+        "website": "https://www.bayviewhighschool.edu.pk/",
+        "board": "Cambridge",
+        "location": "Clifton, Karachi"
+    },
+    {
+        "name": "Bay View School",
+        "address": "Plot No. SNPA 30, Block-7 & 8, Opposite Kathiawar Hall, Adamjee Nagar, KDA-1.",
+        "fees": "40000-50000",
+        "contact": "021-34322065",
+        "website": "https://www.bayviewhighschool.edu.pk/",
+        "board": "Cambridge",
+        "location": "KDA-1, Karachi"
+    },
+    {
+        "name": "Bay View School",
+        "address": "St:#25-B Marine Promenade Road Block 2, Clifton, Karachi.",
+        "fees": "40000-50000",
+        "contact": "021-35867161",
+        "website": "https://www.bayviewhighschool.edu.pk/",
+        "board": "Cambridge",
+        "location": "Clifton, Karachi"
+    },
+    {
+        "name": "Bay View School",
+        "address": "Plot 3/2, Darul Aman CHS Karachi",
+        "fees": "40000-50000",
+        "contact": "021-34382257",
+        "website": "https://www.bayviewhighschool.edu.pk/",
+        "board": "Cambridge",
+        "location": "P.E.C.H.S, Karachi"
+    },
+    {
+        "name": "The Lyceum School",
+        "address": "5-C-2, Lane 7, Shahbaz Commercial, Phase 6, DHA, Karachi, Pakistan",
+        "fees": "50000-60000",
+        "contact": "021-35821741",
+        "website": "https://lyceumschool.edu.pk/",
+        "board": "Cambridge",
+        "location": "Clifton, Karachi"
+    },
+    {
+        "name": "St. Patrick\u2019s High School",
+        "address": "Central Jacob Lines, Mubarak Shaheed Road, Karachi,",
+        "fees": "40000-50000",
+        "contact": "021-32781444",
+        "website": "https://www.stpats.edu.pk/",
+        "board": "Cambridge",
+        "location": "Saddar, Karachi"
+    },
+    {
+        "name": "Karachi American School",
+        "address": "Plot ST-1, Block 16, Federal B Area, in Karachi.",
+        "fees": "50000-60000",
+        "contact": "021-36367513",
+        "website": "https://www.kas.edu.pk/",
+        "board": "Cambridge",
+        "location": "Federal B Area, Karachi"
+    },
+    {
+        "name": "Foundation Public School",
+        "address": "5 Block & 8, Lal Muhammad Chaudhry Road, Karachi, 7th S St, Karachi Memon Society PECHS, Karachi, Sindh",
+        "fees": "30000-40000",
+        "contact": "021-34389652",
+        "website": "https://fps.edu.pk/",
+        "board": "Cambridge",
+        "location": "P.E.C.H.S, Karachi"
+    },
+    {
+        "name": "Beaconhouse school",
+        "address": "C 8, Block D North Nazimabad Town, Karachi, Karachi City, Sindh, Pakistan",
+        "fees": "20000-30000",
+        "contact": "021-928038",
+        "website": "https://beaconhouse.net/",
+        "board": "Cambridge",
+        "location": "North Nazimabad, Karachi"
+    },
+    {
+        "name": "Beaconhouse school",
+        "address": "Block F North Nazimabad Town, Karachi, Karachi City, Sindh, Pakistan",
+        "fees": "20000-30000",
+        "contact": "021-928038",
+        "website": "https://beaconhouse.net/",
+        "board": "Cambridge",
+        "location": "North Nazimabad, Karachi"
+    },
+    {
+        "name": "Beaconhouse school",
+        "address": "Allama Rasheed Turabi Rd, Block G North Nazimabad Town, Karachi, Karachi City, Sindh 74600, Pakistan",
+        "fees": "20000-30000",
+        "contact": "021-36607845",
+        "website": "https://beaconhouse.net/",
+        "board": "Cambridge",
+        "location": "North Nazimabad, Karachi"
+    },
+    {
+        "name": "Beaconhouse school",
+        "address": "C 244, Federal B Area Block 10 Gulberg Town, Karachi, Karachi City, Sindh 75950, Pakistan",
+        "fees": "20000-30000",
+        "contact": "021-36434881",
+        "website": "https://beaconhouse.net/",
+        "board": "Cambridge",
+        "location": "Gulberg Town, Karachi"
+    },
+    {
+        "name": "Beaconhouse school",
+        "address": "F-118/119/119, 1, Block F North Nazimabad Town, Karachi, Karachi City, Sindh, Pakistan",
+        "fees": "20000-30000",
+        "contact": "021-36677073",
+        "website": "https://beaconhouse.net/",
+        "board": "Cambridge",
+        "location": "North Nazimabad, Karachi"
+    },
+    {
+        "name": "Beaconhouse school",
+        "address": "F-72, Block-B Block B North Nazimabad Town, Karachi, Karachi City, Sindh 74600, Pakistan",
+        "fees": "20000-30000",
+        "contact": "021-36641299",
+        "website": "https://beaconhouse.net/",
+        "board": "Cambridge",
+        "location": "North Nazimabad, Karachi"
+    },
+    {
+        "name": "Beaconhouse school",
+        "address": "E-134, Abul Hassan Ispahani Rd, Block 7 Gulshan-e-Iqbal, Karachi, Karachi City, Sindh 74200, Pakistan",
+        "fees": "20000-30000",
+        "contact": "021-34812939",
+        "website": "https://beaconhouse.net/",
+        "board": "Cambridge",
+        "location": "Gulshan-e-Iqbal, Karachi"
+    },
+    {
+        "name": "Beaconhouse school",
+        "address": "E, 60, Block 4 Gulshan-e-Iqbal, Karachi, Karachi City, Sindh 75300, Pakistan",
+        "fees": "20000-30000",
+        "contact": "021-34972327",
+        "website": "https://beaconhouse.net/",
+        "board": "Cambridge",
+        "location": "Gulshan-e-Iqbal, Karachi"
+    },
+    {
+        "name": "Beaconhouse school",
+        "address": "G26, Ali Rd, Block-B Block B North Nazimabad Town, Karachi, Karachi City, Sindh, Pakistan",
+        "fees": "20000-30000",
+        "contact": "3487973335",
+        "website": "https://beaconhouse.net/",
+        "board": "Cambridge",
+        "location": "North Nazimabad, Karachi"
+    },
+    {
+        "name": "Beaconhouse school",
+        "address": "D-2, Block 6 Gulshan-e-Iqbal, Karachi, Karachi City, Sindh, Pakistan",
+        "fees": "20000-30000",
+        "contact": "021-34989387",
+        "website": "https://beaconhouse.net/",
+        "board": "Cambridge",
+        "location": "Gulshan-e-Iqbal, Karachi"
+    },
+    {
+        "name": "Beaconhouse school",
+        "address": "F-89 Block B North Nazimabad Town, Karachi, Karachi City, Sindh, Pakistan",
+        "fees": "20000-30000",
+        "contact": "021-36643450",
+        "website": "https://beaconhouse.net/",
+        "board": "Cambridge",
+        "location": "North Nazimabad, Karachi"
+    },
+    {
+        "name": "Beaconhouse school",
+        "address": "E, 2, Block 4 Gulshan-e-Iqbal, Karachi, Karachi City, Sindh, Pakistan",
+        "fees": "20000-30000",
+        "contact": "021-34970157",
+        "website": "https://beaconhouse.net/",
+        "board": "Cambridge",
+        "location": "Gulshan-e-Iqbal, Karachi"
+    },
+    {
+        "name": "Beaconhouse school",
+        "address": "1 Street 5, Block 10 Gulshan-e-Iqbal, Karachi, Karachi City, Sindh, Pakistan",
+        "fees": "20000-30000",
+        "contact": "021-34819747",
+        "website": "https://beaconhouse.net/",
+        "board": "Cambridge",
+        "location": "Gulshan-e-Iqbal, Karachi"
+    },
+    {
+        "name": "Beaconhouse school",
+        "address": "4A Block 1\u060c Scheme 36, Gulistan-e-Johar, Karachi, Karachi City, Sindh, Pakistan",
+        "fees": "20000-30000",
+        "contact": "021-34018018",
+        "website": "https://beaconhouse.net/",
+        "board": "Cambridge",
+        "location": "Gulistan-e-Jauhar, Karachi"
+    },
+    {
+        "name": "Beaconhouse school",
+        "address": "Block 14 Gulistan-e-Johar, Karachi, Karachi City, Sindh, Pakistan",
+        "fees": "20000-30000",
+        "contact": "021-34018018",
+        "website": "https://beaconhouse.net/",
+        "board": "Cambridge",
+        "location": "Gulistan-e-Jauhar, Karachi"
+    },
+    {
+        "name": "Beaconhouse school",
+        "address": "169-F, Block, 3, Block 3 P.E.C.H.S., Karachi, Karachi City, Sindh, Pakistan",
+        "fees": "20000-30000",
+        "contact": "021-34526699",
+        "website": "https://beaconhouse.net/",
+        "board": "Cambridge",
+        "location": "P.E.C.H.S, Karachi"
+    },
+    {
+        "name": "The Smart School",
+        "address": "Sector 5 A 2 New Karachi Town, Karachi, Karachi City, Sindh, Pakistan",
+        "fees": "3000-8000",
+        "contact": "021-36968613",
+        "website": "https://thesmartschools.edu.pk/",
+        "board": "Sindh Board",
+        "location": "New Karachi, Karachi"
+    },
+    {
+        "name": "The Smart School",
+        "address": "Sector-11-I Sector 11 I North Karachi Twp, Karachi, Karachi City, Sindh, Pakistan",
+        "fees": "3000-8000",
+        "contact": "021-36968613",
+        "website": "https://thesmartschools.edu.pk/",
+        "board": "Sindh Board",
+        "location": "North Karachi, Karachi"
+    },
+    {
+        "name": "The Smart School",
+        "address": "Sultanabad New Karachi, Karachi, Karachi City, Sindh, Pakistan",
+        "fees": "3000-8000",
+        "contact": "3191326249",
+        "website": "https://thesmartschools.edu.pk/",
+        "board": "Sindh Board",
+        "location": "New Karachi, Karachi"
+    },
+    {
+        "name": "The Smart School",
+        "address": "Shahjahan Ave, Block J Sector 14 A Shadman Town, Karachi, Karachi City, Sindh, Pakistan",
+        "fees": "3000-8000",
+        "contact": "021-36674307",
+        "website": "https://thesmartschools.edu.pk/",
+        "board": "Sindh Board",
+        "location": "Shadman Town, Karachi"
+    },
+    {
+        "name": "The Smart School",
+        "address": "Plot B 48, Sector 4 B Surjani Town, Karachi, Karachi City, Sindh, Pakistan",
+        "fees": "3000-8000",
+        "contact": "021-36910101",
+        "website": "https://thesmartschools.edu.pk/",
+        "board": "Sindh Board",
+        "location": "North Nazimabad, Karachi"
+    },
+    {
+        "name": "The Smart School",
+        "address": "W3V4+8XC, 11th St, Block L North Nazimabad Town, Karachi, Karachi City, Sindh, Pakistan",
+        "fees": "3000-8000",
+        "contact": "021-36640010",
+        "website": "https://thesmartschools.edu.pk/",
+        "board": "Sindh Board",
+        "location": "North Nazimabad, Karachi"
+    },
+    {
+        "name": "The Smart School",
+        "address": "A 510, Sector 11-A Sector 11 A North Karachi Twp, Karachi, Karachi City, Sindh, Pakistan",
+        "fees": "3000-8000",
+        "contact": "3142463748",
+        "website": "https://thesmartschools.edu.pk/",
+        "board": "Sindh Board",
+        "location": "North Karachi, Karachi"
+    },
+    {
+        "name": "The Smart School",
+        "address": "W3J5+CCR, Josh Malih Abadi Rd, Federal B Area Block 6 Gulberg Town, Karachi, Karachi City, Sindh, Pakistan",
+        "fees": "3000-8000",
+        "contact": "3151264693",
+        "website": "https://thesmartschools.edu.pk/",
+        "board": "Sindh Board",
+        "location": "Federal B Area, Karachi"
+    },
+    {
+        "name": "The Smart School",
+        "address": "Federal B Area Block 4 Gulberg Town, Karachi, Karachi City, Sindh, Pakistan",
+        "fees": "3000-8000",
+        "contact": "021-36627115",
+        "website": "https://thesmartschools.edu.pk/",
+        "board": "Sindh Board",
+        "location": "Gulberg Town, Karachi"
+    },
+    {
+        "name": "The Smart School",
+        "address": "Stree No. # 4, Sector 4 Hanifabad, Karachi, Karachi City, Sindh 75800, Pakistan",
+        "fees": "3000-8000",
+        "contact": "3332123971",
+        "website": "https://thesmartschools.edu.pk/",
+        "board": "Sindh Board",
+        "location": "Hanifabad, Karachi"
+    },
+    {
+        "name": "The Smart School",
+        "address": "B 15, Block 15 Gulshan-e-Iqbal, Karachi, Karachi City, Sindh, Pakistan",
+        "fees": "3000-8000",
+        "contact": "033-11318424",
+        "website": "https://thesmartschools.edu.pk/",
+        "board": "Sindh Board",
+        "location": "Gulshan-e-Iqbal, Karachi"
+    },
+    {
+        "name": "The Smart School",
+        "address": "Block 13D-1 Block 13 D 1 Gulshan-e-Iqbal, Karachi, Karachi City, Sindh, Pakistan",
+        "fees": "3000-8000",
+        "contact": "021-34814951",
+        "website": "https://thesmartschools.edu.pk/",
+        "board": "Sindh Board",
+        "location": "Gulshan-e-Iqbal, Karachi"
+    },
+    {
+        "name": "The Smart School",
+        "address": "Mauritiuswala Complex, ST002/I, X-I Sector X Gulshan-e-Maymar, Karachi, 07526, Pakistan",
+        "fees": "3000-8000",
+        "contact": "0336-3182905",
+        "website": "https://thesmartschools.edu.pk/",
+        "board": "Sindh Board",
+        "location": "Gulshan-e-Maymar, Karachi"
+    },
+    {
+        "name": "The Smart School",
+        "address": "Block 2 Nazimabad, Karachi, Karachi City, Sindh 74600, Pakistan",
+        "fees": "3000-8000",
+        "contact": "0335-2269484",
+        "website": "https://thesmartschools.edu.pk/",
+        "board": "Sindh Board",
+        "location": "Nazimabad, Karachi"
+    },
+    {
+        "name": "The Smart School",
+        "address": "B-77, Latifi Cooperative Society Block 17 Gulistan-e-Johar, Karachi, Karachi City, Sindh, Pakistan",
+        "fees": "3000-8000",
+        "contact": "0316-2801566",
+        "website": "https://thesmartschools.edu.pk/",
+        "board": "Sindh Board",
+        "location": "Gulistan-e-Jauhar, Karachi"
+    },
+    {
+        "name": "The Smart School",
+        "address": "Sector 1 Naval Colony, Karachi, Karachi City, Sindh, Pakistan",
+        "fees": "3000-8000",
+        "contact": "0347-2933322",
+        "website": "https://thesmartschools.edu.pk/",
+        "board": "Sindh Board",
+        "location": "Naval Colony, Karachi"
+    },
+    {
+        "name": "The Smart School",
+        "address": "V4W8+589, Street Number 5, Gulshan-e-Jamal Block B Gulshan e Jamal, Karachi, Karachi City, Sindh, Pakistan",
+        "fees": "3000-8000",
+        "contact": "0321-2910291",
+        "website": "https://thesmartschools.edu.pk/",
+        "board": "Sindh Board",
+        "location": "Gulshan-e-Jamal, Karachi"
+    },
+    {
+        "name": "The Smart School",
+        "address": "A-346, Sector 5 Surjani Town, Karachi, Karachi City, Sindh, Pakistan",
+        "fees": "3000-8000",
+        "contact": "021-35883328",
+        "website": "https://thesmartschools.edu.pk/",
+        "board": "Sindh Board",
+        "location": "Surjani Town, Karachi"
+    },
+    {
+        "name": "The Smart School",
+        "address": "Plot No. ST-1, Sector 4 Oragni Town Karachi",
+        "fees": "3000-8000",
+        "contact": "0333-2609242",
+        "website": "https://thesmartschools.edu.pk/",
+        "board": "Sindh Board",
+        "location": "Orangi Town, Karachi"
+    },
+    {
+        "name": "Westminster Private Secondary School",
+        "address": "A-120 Block 9 FB Area, Karachi, Pakistan",
+        "fees": "3000-8000",
+        "contact": "0331 3520443",
+        "website": null,
+        "board": "Sindh Board",
+        "location": "Federal B Area, Karachi"
+    },
+    {
+        "name": "Candle Light Higher Secondary School",
+        "address": "Block No, 81, 5-F Sector 5 F New Karachi Town, Karachi, Karachi City, Sindh 75850, Pakistan",
+        "fees": "3000-8000",
+        "contact": "0331-9088885",
+        "website": null,
+        "board": "Sindh Board",
+        "location": "New Karachi, Karachi"
+    },
+    {
+        "name": "New White Rose Primary and Secondary School",
+        "address": "Sector 11-F, North Karachi, Sector 11 F North Karachi Twp, Karachi, Karachi City,",
+        "fees": "3000-8000",
+        "contact": "0315-2245930",
+        "website": null,
+        "board": "Sindh Board",
+        "location": "North Karachi, Karachi"
+    },
+    {
+        "name": "International school of karachi",
+        "address": "D-106, Block 2, Clifton. Karachi. Pakistan.",
+        "fees": "15000-30000",
+        "contact": "021-35291432",
+        "website": "https://iskschool.edupage.org/",
+        "board": "Cambridge",
+        "location": "Clifton, Karachi"
+    },
+    {
+        "name": "Public School Gadap (PSG)",
+        "address": "Main Gadap Road, Karachi - Hyderabad Motorway, Gadap Town, Karachi, Karachi City, Sindh, Pakistan",
+        "fees": "3000-8000",
+        "contact": "021-34480294",
+        "website": "https://www.psg.edu.pk/",
+        "board": "Sindh Board",
+        "location": "Gadap Road, Karachi"
+    },
+    {
+        "name": "Nixor school",
+        "address": "Phase 8, Plot No. SL-10, P.D.O 14th St, H Authority, Karachi, Pakistan",
+        "fees": "40000-60000",
+        "contact": "0300-8590360",
+        "website": "http://www.nixorols.org/",
+        "board": "Cambridge",
+        "location": "DHA Phase 8, Karachi"
+    },
+    {
+        "name": "Meritorious International school",
+        "address": "21- B, 22nd Street, PECHS Block 6, off Shahrah e Faisal, Karachi, Pakistan",
+        "fees": "15000-25000",
+        "contact": "021-34322029",
+        "website": "https://meritoriousschool.com/",
+        "board": "Cambridge",
+        "location": "P.E.C.H.S, Karachi"
+    },
+    {
+        "name": "The Next School",
+        "address": "N-77, Block 6 P.E.C.H.S., Karachi, 75400, Pakistan",
+        "fees": "15000-25000",
+        "contact": "0301-1126640",
+        "website": "https://thenextschool.edu.pk/",
+        "board": "Cambridge",
+        "location": "P.E.C.H.S, Karachi"
+    },
+    {
+        "name": "The Next School",
+        "address": "Plot #12, Farhan Society, main Haider Ali Rd, Kokan CHS, Karachi, Karachi City, Sindh, Pakistan",
+        "fees": "15000-25000",
+        "contact": "0331-3336398",
+        "website": "https://thenextschool.edu.pk/",
+        "board": "Cambridge",
+        "location": "Bahadurabad, Karachi"
+    },
+    {
+        "name": "The Next School",
+        "address": "Plot D, 9/5 Shahrah-e-Jahangir Rd, Block 5 Gulberg Town, Karachi, Karachi City, Sindh, Pakistan",
+        "fees": "15000-25000",
+        "contact": "0331-4446398",
+        "website": "https://thenextschool.edu.pk/",
+        "board": "Cambridge",
+        "location": "Gulshan-e-Iqbal, Karachi"
+    },
+    {
+        "name": "The Next School",
+        "address": "Plot No.B6, Block 1 Gulshan-e-Iqbal, Karachi, Sindh 74600, Pakistan",
+        "fees": "15000-25000",
+        "contact": "0305-4446398",
+        "website": "https://thenextschool.edu.pk/",
+        "board": "Cambridge",
+        "location": "Gulshan-e-Iqbal, Karachi"
+    },
+    {
+        "name": "The Next School",
+        "address": "C-221 Shahra-e-Humayun, Block A North Nazimabad Town, Karachi, Karachi City, Sindh, Pakistan",
+        "fees": "15000-25000",
+        "contact": "0334-0006398",
+        "website": "https://thenextschool.edu.pk/",
+        "board": "Cambridge",
+        "location": "North Nazimabad, Karachi"
+    },
+    {
+        "name": "The Next School",
+        "address": "C 83, Block 4 Gulshan-e-Iqbal, Karachi, Karachi City, Sindh, Pakistan",
+        "fees": "15000-25000",
+        "contact": "0336-3526398",
+        "website": "https://thenextschool.edu.pk/",
+        "board": "Cambridge",
+        "location": "Gulshan-e-Iqbal, Karachi"
+    },
+    {
+        "name": "The Next School",
+        "address": "Block 13 Gulistan-e-Johar, Karachi, Karachi City, Sindh, Pakistan",
+        "fees": "15000-25000",
+        "contact": "0335-0630228",
+        "website": "https://thenextschool.edu.pk/",
+        "board": "Cambridge",
+        "location": "Gulistan-e-Jauhar, Karachi"
+    },
+    {
+        "name": "The Next School",
+        "address": "Kazimabad Karachi, Karachi City, Sindh, Pakistan",
+        "fees": "15000-25000",
+        "contact": "0332-0002339",
+        "website": "https://thenextschool.edu.pk/",
+        "board": "Cambridge",
+        "location": "Kazimabad, Karachi"
+    },
+    {
+        "name": "The Next School",
+        "address": "f 61, 3 Shahrah-e-Attar, Block 4 Clifton, Karachi, Karachi City, Sindh 75500, Pakistan",
+        "fees": "15000-25000",
+        "contact": null,
+        "website": "https://thenextschool.edu.pk/",
+        "board": "Cambridge",
+        "location": "Clifton, Karachi"
+    },
+    {
+        "name": "The Next School",
+        "address": "C 23, Block J North Nazimabad Town, Karachi, Karachi City, Sindh 74600, Pakistan",
+        "fees": "15000-25000",
+        "contact": "0335-3001111",
+        "website": "https://thenextschool.edu.pk/",
+        "board": "Cambridge",
+        "location": "North Nazimabad, Karachi"
+    },
+    {
+        "name": "Roots International Schools & Colleges",
+        "address": "B-1, Block 1 Gulshan-e-Iqbal, Karachi, Karachi City, Sindh, Pakistan",
+        "fees": "40000-50000",
+        "contact": "021-34960331",
+        "website": "http://rootsinternational.edu.pk/",
+        "board": "Cambridge",
+        "location": "Gulshan-e-Iqbal, Karachi"
+    },
+    {
+        "name": "Roots International Schools & Colleges",
+        "address": "Plot# F98, Shahrah e Humayun, Block-B Block B North Nazimabad Town, Karachi, Karachi City, Sindh 74600, Pakistan",
+        "fees": "40000-50000",
+        "contact": "0320-2494719",
+        "website": "http://rootsinternational.edu.pk/",
+        "board": "Cambridge",
+        "location": "North Nazimabad, Karachi"
+    },
+    {
+        "name": "Army Public School",
+        "address": "Central Ordinance Depot, Rashid Minhas Rd, Faisal Cantonment, Karachi, Karachi City, Sindh, Pakistan",
+        "fees": "5000-10000",
+        "contact": "0333-2082842",
+        "website": "https://apsacssectt.edu.pk/",
+        "board": "Cambridge",
+        "location": "Faisal Cantonment, Karachi"
+    },
+    {
+        "name": "Army Public School",
+        "address": "158 Iqbal Shaheed Rd, near Lucky Star, Karachi Cantonment Karachi, Karachi City, Sindh 74400, Pakistan",
+        "fees": "5000-10000",
+        "contact": "021-32785757",
+        "website": "https://apsacssectt.edu.pk/",
+        "board": "Cambridge",
+        "location": "Karachi Cantonment"
+    },
+    {
+        "name": "Army Public School",
+        "address": "Malir Link to Super Hwy, Malir Cantonment, Karachi, Karachi City, Sindh, Pakistan",
+        "fees": "5000-10000",
+        "contact": "0323-3975514",
+        "website": "https://apsacssectt.edu.pk/",
+        "board": "Cambridge",
+        "location": "Malir Cantonment, Karachi"
+    },
+    {
+        "name": "Army Public School",
+        "address": ",Malir Cantonment, Karachi, Karachi City, Sindh, Pakistan",
+        "fees": "5000-10000",
+        "contact": "021-34900220",
+        "website": "https://apsacssectt.edu.pk/",
+        "board": "Cambridge",
+        "location": "Malir Cantonment, Karachi"
+    },
+    {
+        "name": "Programmer School",
+        "address": "DHA, Karachi",
+        "fees": "5000-15000",
+        "contact": "021-23456789",
+        "website": null,
+        "board": "Sindh Board",
+        "location": "DHA, Karachi"
+    },
+    {
+        "name": "Programmer School",
+        "address": "Gulshan-e-Iqbal, Karachi",
+        "fees": "3000-8000",
+        "contact": "021-34567890",
+        "website": null,
+        "board": "Sindh Board",
+        "location": "Gulshan-e-Iqbal, Karachi"
+    },
+    {
+        "name": "Falconhouse Grammar School Campus 2",
+        "address": "D-48, Block H North Nazimabad Town, Karachi, Karachi City, Sindh 74600, Pakistan",
+        "fees": "5000-15000",
+        "contact": "021-36641355",
+        "website": "http://www.falconhouse.edu.pk/",
+        "board": "Cambridge",
+        "location": "North Nazimabad, Karachi"
+    },
+    {
+        "name": "Falcon House Grammar School",
+        "address": "D-2, Block 4 Gulshan-e-Iqbal, Karachi, Karachi City, Sindh, Pakistan",
+        "fees": "5000-15000",
+        "contact": "021-36641355",
+        "website": "http://www.falconhouse.edu.pk/",
+        "board": "Cambridge",
+        "location": "Gulshan-e-Iqbal, Karachi"
+    },
+    {
+        "name": "Falcon House Grammar School",
+        "address": "Allama Rasheed Turabi Rd, Block F North Nazimabad Town, Karachi, Karachi City, Sindh 74600, Pakistan",
+        "fees": "5000-15000",
+        "contact": null,
+        "website": null,
+        "board": "Cambridge",
+        "location": "North Nazimabad, Karachi"
+    },
+    {
+        "name": "Falconhouse Grammar School Campus 5",
+        "address": "Sharah-e-Humayun, Block F North Nazimabad Town, Karachi, Karachi City, Sindh, Pakistan",
+        "fees": "5000-15000",
+        "contact": "021-36642765",
+        "website": "http://falconhouse.edu.pk/",
+        "board": "Cambridge",
+        "location": "North Nazimabad, Karachi"
+    },
+    {
+        "name": "Falconhouse Grammar School Main branch",
+        "address": "Block F North Nazimabad Town, Karachi, Karachi City, Sindh, Pakistan",
+        "fees": "5000-15000",
+        "contact": "021-36643803",
+        "website": "http://www.falconhouse.edu.pk/",
+        "board": "Cambridge",
+        "location": "North Nazimabad, Karachi"
+    },
+    {
+        "name": "Falconhouse Grammar School Regional Office",
+        "address": "Block F North Nazimabad Town, Karachi, Karachi City, Sindh, Pakistan",
+        "fees": "5000-15000",
+        "contact": "021-36645048",
+        "website": "http://www.falconhouse.edu.pk/",
+        "board": "Cambridge",
+        "location": "North Nazimabad, Karachi"
+    },
+    {
+        "name": "Falconhouse Grammar School Campus 1",
+        "address": "Sharah-e-Humayun, Block-B Block B North Nazimabad Town, Karachi, Karachi City, Sindh 74600, Pakistan",
+        "fees": "5000-15000",
+        "contact": "021-36643685",
+        "website": "http://falconhouse.edu.pk/",
+        "board": "Cambridge",
+        "location": "North Nazimabad, Karachi"
+    },
+    {
+        "name": "Falconhouse Grammar School A level Campus",
+        "address": "Block F North Nazimabad Town, Karachi, Karachi City, Sindh 74600, Pakistan",
+        "fees": "5000-15000",
+        "contact": "021-36673068",
+        "website": "http://www.falconhouse.edu.pk/",
+        "board": "Cambridge",
+        "location": "North Nazimabad, Karachi"
+    },
+    {
+        "name": "Falconhouse Grammar School",
+        "address": "Street Number 8, Sector 11-A Sector 11 A North Karachi Twp, Karachi, Karachi City, Sindh, Pakistan",
+        "fees": "5000-15000",
+        "contact": "021-36906877",
+        "website": "http://www.falconhouse.edu.pk/",
+        "board": "Cambridge",
+        "location": "North Karachi, Karachi"
+    },
+    {
+        "name": "Falcon House Grammar School Campus 6",
+        "address": "Nazimabad No. 4 Block 4 Nazimabad, Karachi, Karachi City, Sindh 74600, Pakistan",
+        "fees": "5000-15000",
+        "contact": "030-52504056",
+        "website": "http://www.falconhouse.edu.pk/",
+        "board": "Cambridge",
+        "location": "Nazimabad, Karachi"
+    },
+    {
+        "name": "Falconhouse Grammar School. (AL-AMNA CAMPUS)",
+        "address": "Plot #, ST 20, Sector 5-I Sector 5 M North Karachi Twp, Karachi, Karachi City, Sindh, Pakistan",
+        "fees": "5000-15000",
+        "contact": "021-36836814",
+        "website": "http://www.falconhouse.edu.pk/",
+        "board": "Cambridge",
+        "location": "North Karachi, Karachi"
+    },
+    {
+        "name": "Falcon house grammar school",
+        "address": "Block 14 Gulistan-e-Johar, Karachi, Karachi City, Sindh, Pakistan",
+        "fees": "5000-15000",
+        "contact": "034-12352305",
+        "website": "http://www.falconhouse.edu.pk/",
+        "board": "Cambridge",
+        "location": "Gulistan-e-Jauhar, Karachi"
+    },
+    {
+        "name": "Falconhouse Grammar School Campus-09",
+        "address": "ST-2, Main University Rd, Block 7 Gulistan-e-Johar, Karachi, Karachi City, Sindh 75270, Pakistan",
+        "fees": "5000-15000",
+        "contact": "021-34664687",
+        "website": "http://www.falconhouse.edu.pk/",
+        "board": "Cambridge",
+        "location": "Gulistan-e-Jauhar, Karachi"
+    },
+    {
+        "name": "Falcon House Grammar School",
+        "address": "Sector 5 Surjani Town, Karachi, Karachi City, Sindh, Pakistan",
+        "fees": "5000-15000",
+        "contact": "032-5238645",
+        "website": "http://www.falconhouse.edu.pk/",
+        "board": "Cambridge",
+        "location": "Surjani Town, Karachi"
+    },
+    {
+        "name": "Falconhouse Grammar School",
+        "address": "Sadiq Husain Rd, Sector X-2 Sector X Gulshan-e-Maymar, Karachi, Karachi City, Sindh, Pakistan",
+        "fees": "5000-15000",
+        "contact": "021-36833292",
+        "website": "http://www.falconhouse.edu.pk/",
+        "board": "Cambridge",
+        "location": "Gulshan-e-Maymar, Karachi"
+    },
+    {
+        "name": "Falconhouse grammar school",
+        "address": "The ABC School St, Block 3 Shah Faisal Colony 3 Shah Faisal Colony, Karachi, Karachi City, Sindh, Pakistan",
+        "fees": "5000-15000",
+        "contact": "033-67733770",
+        "website": "http://www.falconhouse.edu.pk/",
+        "board": "Cambridge",
+        "location": "Shah Faisal Colony, Karachi"
+    },
+    {
+        "name": "FalconHouse Grammer School Orangi Campus",
+        "address": "Rehmat Chowk Chowk, Gulzar e Madina Colony, Karachi, Karachi City, Sindh, Pakistan",
+        "fees": "5000-15000",
+        "contact": "033-67733770",
+        "website": null,
+        "board": "Cambridge",
+        "location": "Gulzar e Madina Colony, Karachi"
+    },
+    {
+        "name": "Falconhouse Grammar School",
+        "address": "near BROADWAY Pizza, Napier Quarter, Karachi, Karachi City, Sindh, Pakistan",
+        "fees": "5000-15000",
+        "contact": "021-36833292",
+        "website": "http://www.falconhouse.edu.pk/",
+        "board": "Cambridge",
+        "location": "Napier Quarter, Karachi"
+    },
+    {
+        "name": "Falconhouse Grammer - Maymar Chapter",
+        "address": "Sector Z 4 Sector Z Gulshan-e-Maymar, Karachi, Karachi City, Sindh, Pakistan",
+        "fees": "5000-15000",
+        "contact": "033-43054014",
+        "website": "http://www.falconhouse.edu.pk/",
+        "board": "Cambridge",
+        "location": "Gulshan-e-Maymar, Karachi"
+    },
+    {
+        "name": "Programmer School",
+        "address": "3 Lane Shahra-E-Usman, Sector 11 B North Karachi Twp, Karachi, Karachi City, Sindh, Pakistan",
+        "fees": "5000-15000",
+        "contact": "021-36943570",
+        "website": null,
+        "board": "Cambridge",
+        "location": "North Karachi, Karachi"
+    },
+    {
+        "name": "The Programmers School",
+        "address": "Sector 11 A North Karachi Twp, Karachi, Karachi City, Sindh, Pakistan",
+        "fees": "5000-15000",
+        "contact": "034-53105877",
+        "website": null,
+        "board": "Cambridge",
+        "location": "North Karachi, Karachi"
+    },
+    {
+        "name": "The Programmer School",
+        "address": "Sector 11-A Sector 11 B North Karachi Twp, Karachi, Karachi City, Sindh, Pakistan",
+        "fees": "5000-15000",
+        "contact": "034-52226358",
+        "website": null,
+        "board": "Cambridge",
+        "location": "North Karachi, Karachi"
+    },
+    {
+        "name": "Falconhouse Grammar School",
+        "address": "Plot # ST-03/B Block F",
+        "fees": "5000-15000",
+        "contact": "021-36643686",
+        "website": "http://www.falconhouse.edu.pk/",
+        "board": "Cambridge",
+        "location": "North Nazimabad, Karachi"
+    },
+    {
+        "name": "Dar-e-Arqam School",
+        "address": "House # C-87 Block 13, Gulistan-e- Jauhar Karachi",
+        "fees": "3000-8000",
+        "contact": "021-34023555",
+        "website": "https://das.edu.pk/",
+        "board": "Cambridge",
+        "location": "Gulistan-e-Jauhar, Karachi"
+    },
+    {
+        "name": "Dar-e-Arqam School",
+        "address": "House # D-1, Block-4 F.B Area Karachi",
+        "fees": "3000-8000",
+        "contact": "021-36315500",
+        "website": "https://das.edu.pk/",
+        "board": "Cambridge",
+        "location": "Federal B Area, Karachi"
+    },
+    {
+        "name": "Dar-e-Arqam School",
+        "address": "House # 2/65-A, Block-2 Shah Faisal Colony Karachi.",
+        "fees": "3000-8000",
+        "contact": "021-34574465",
+        "website": "https://das.edu.pk/",
+        "board": "Cambridge",
+        "location": "Shah Faisal Colony, Karachi"
+    },
+    {
+        "name": "Dar-e-Arqam School",
+        "address": "House # B-350, Block-N, North Nazimabad,Karachi.",
+        "fees": "3000-8000",
+        "contact": "021-36897201",
+        "website": "https://das.edu.pk/",
+        "board": "Cambridge",
+        "location": "Federal B Area, Karachi"
+    },
+    {
+        "name": "Dar-e-Arqam School",
+        "address": "House # C-2, Block-T, North Nazmiabad, Karachi",
+        "fees": "3000-8000",
+        "contact": "021-36670066",
+        "website": "https://das.edu.pk/",
+        "board": "Cambridge",
+        "location": "Federal B Area, Karachi"
+    },
+    {
+        "name": "Dar-e-Arqam School",
+        "address": "House # E-78, Block-6, PECHS,Near Green belt family park, Karachi",
+        "fees": "3000-8000",
+        "contact": "021-34372225",
+        "website": "https://das.edu.pk/",
+        "board": "Cambridge",
+        "location": "P.E.C.H.S, Karachi"
+    },
+    {
+        "name": "Dar-e-Arqam School",
+        "address": "House # C-24, Phase 1 Extension,Gulshan-e-Hadeed,Karachi.",
+        "fees": "3000-8000",
+        "contact": "021-34718070",
+        "website": "https://das.edu.pk/",
+        "board": "Cambridge",
+        "location": "Gulshan-e-Hadeed, Karachi"
+    },
+    {
+        "name": "Dar-e-Arqam School",
+        "address": "House # D-20, Block-10-A, Near Toyota Showroom Main Rashid Minhas Road Karachi",
+        "fees": "3000-8000",
+        "contact": "021-34621140",
+        "website": "https://das.edu.pk/",
+        "board": "Cambridge",
+        "location": "Gulshan-e-Iqbal, Karachi"
+    },
+    {
+        "name": "Dar-e-Arqam School",
+        "address": "House # 859 Block -M,Muhammad Mustafa Colony ,Sector :11 1/2 Near Rehmat Chowk,",
+        "fees": "3000-8000",
+        "contact": "0331-3732987",
+        "website": "https://das.edu.pk/",
+        "board": "Cambridge",
+        "location": "Orangi Town, Karachi"
+    },
+    {
+        "name": "The Benchmark ",
+        "address": " Block 7 Gulshan-e-Iqbal, Karachi, Karachi City, Sindh, Pakistan",
+        "fees": "10000-20000",
+        "contact": "021-34804887",
+        "website": "http://www.thebenchmark.com.pk/",
+        "board": "Hifz program",
+        "location": "Gulshan-e-Iqbal, Karachi"
+    },
+    {
+        "name": "Mama Parsi Girls' Secondary",
+        "address": "M.A. Jinnah Rd, Karachi",
+        "fees": "30000-40000",
+        "contact": "021-32720224",
+        "website": null,
+        "board": "Sindh Board",
+        "location": "M.A Jinnah Rd, Karachi"
+    },
+    {
+        "name": "St. Patrick's High School",
+        "address": "Saddar, Karachi",
+        "fees": "20000-30000",
+        "contact": "021-32781444",
+        "website": null,
+        "board": "Sindh Board",
+        "location": "Saddar, Karachi"
+    },
+    {
+        "name": "Bai Virbaiji Sopariwala (BVS)",
+        "address": "Saddar, Karachi",
+        "fees": "20000-30000",
+        "contact": "021-32721271",
+        "website": null,
+        "board": "Cambridge",
+        "location": "Saddar, Karachi"
+    },
+    {
+        "name": "Wonderland Grammar Secondary School",
+        "address": "11-C/1 Sector 11 C 1 North Karachi Twp, Karachi, Karachi City, Sindh 74600, Pakistan",
+        "fees": "5000-15000",
+        "contact": "0315-3000727",
+        "website": "http://www.wonderland.edu.pk/",
+        "board": "Sindh Board",
+        "location": "North Karachi, Karachi"
+    },
+    {
+        "name": "Wonderland Grammar Secondary School",
+        "address": "B, B-61, Block 10 Federal, Area Karachi, 75950, Pakistan",
+        "fees": "5000-15000",
+        "contact": "021-36360737",
+        "website": "http://www.wonderland.edu.pk/",
+        "board": "Sindh Board",
+        "location": "Federal B Area, Karachi"
+    },
+    {
+        "name": "The Educators",
+        "address": "Block 4, Nazimabad, Block 4 Nazimabad, Karachi, Karachi City, Sindh 74200",
+        "fees": "15000-30000",
+        "contact": "021-111785785",
+        "website": null,
+        "board": "Sindh Board",
+        "location": "Nazimabad, Karachi"
+    },
+    {
+        "name": "The Educators",
+        "address": "C 226, Block A North Nazimabad Town, Karachi, Karachi City, Sindh",
+        "fees": "15000-30000",
+        "contact": "021-111785785",
+        "website": null,
+        "board": "Sindh Board",
+        "location": "North Nazimabad Town, Karachi"
+    },
+    {
+        "name": "The Educators",
+        "address": "Nazimabad No. 4 Block 4 Nazimabad, Karachi, Karachi City, Sindh 74600",
+        "fees": "15000-30000",
+        "contact": "021-111785785",
+        "website": null,
+        "board": "Sindh Board",
+        "location": "Nazimabad, Karachi"
+    },
+    {
+        "name": "The Educators",
+        "address": "C 13, Block D North Nazimabad Town, Karachi, Karachi City, Sindh",
+        "fees": "15000-30000",
+        "contact": "021-111785785",
+        "website": null,
+        "board": "Sindh Board",
+        "location": "North Nazimabad Town, Karachi"
+    },
+    {
+        "name": "The Educators",
+        "address": "Karachi City, Block 1 Nazimabad, Karachi, Karachi City, Sindh 74600",
+        "fees": "15000-30000",
+        "contact": "021-111785785",
+        "website": null,
+        "board": "Sindh Board",
+        "location": "Nazimabad, Karachi"
+    },
+    {
+        "name": "The Educators",
+        "address": "Shadman Town Sector 14 A Shadman Town, Karachi, Karachi City, Sindh",
+        "fees": "15000-30000",
+        "contact": "021-111785785",
+        "website": null,
+        "board": "Sindh Board",
+        "location": "Shadman Town, Karachi"
+    },
+    {
+        "name": "The Educators",
+        "address": "House No C-77, Jahangir Ave, Block 10, Federal B Area, Karachi, Sindh",
+        "fees": "15000-30000",
+        "contact": "021-111785785",
+        "website": null,
+        "board": "Sindh Board",
+        "location": "Federal B Area, Karachi"
+    },
+    {
+        "name": "The Educators",
+        "address": "Block L North Nazimabad Town, Karachi, Karachi City, Sindh 74200",
+        "fees": "15000-30000",
+        "contact": "021-111785785",
+        "website": null,
+        "board": "Sindh Board",
+        "location": "North Nazimabad Town, Karachi"
+    },
+    {
+        "name": "The Educators",
+        "address": "D 7, Block 5 Gulberg Town, Karachi, Karachi City, Sindh",
+        "fees": "15000-30000",
+        "contact": "021-111785785",
+        "website": null,
+        "board": "Sindh Board",
+        "location": "Gulberg Town, Karachi"
+    },
+    {
+        "name": "The Educators",
+        "address": "German St, Garden East, Karachi, Karachi City, Sindh",
+        "fees": "15000-30000",
+        "contact": "021-111785785",
+        "website": null,
+        "board": "Sindh Board",
+        "location": "Garden East, Karachi"
+    },
+    {
+        "name": "The Educators",
+        "address": "Plot C, 77, Federal B Area Block 10 Gulberg Town, Karachi, Karachi City, Sindh 75950",
+        "fees": "15000-30000",
+        "contact": "021-111785785",
+        "website": null,
+        "board": "Sindh Board",
+        "location": "Gulberg Town, Karachi"
+    }
+]

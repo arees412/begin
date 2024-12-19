@@ -115,4 +115,153 @@ router.get('/get/grade/:grade_level', (req, res) => {
     });
 });
 
+
+
+router.delete('/delete/:id', (req, res) => {
+    const { id } = req.params;
+
+    if (!id) {
+        return res.status(400).json({ error: 'Worksheet ID is required' });
+    }
+
+    // Query to fetch the worksheet paths before deletion
+    const fetchQuery = `
+        SELECT image_path, pdf_path
+        FROM worksheets
+        WHERE id = ?
+    `;
+
+    database.query(fetchQuery, [id], (err, results) => {
+        if (err) {
+            console.error('Error fetching worksheet:', err.message);
+            return res.status(500).json({ error: 'Failed to fetch worksheet' });
+        }
+
+        if (results.length === 0) {
+            return res.status(404).json({ error: 'Worksheet not found' });
+        }
+
+        const { image_path, pdf_path } = results[0];
+
+        // Query to delete the worksheet from the database
+        const deleteQuery = `
+            DELETE FROM worksheets
+            WHERE id = ?
+        `;
+
+        database.query(deleteQuery, [id], (err, result) => {
+            if (err) {
+                console.error('Error deleting worksheet:', err.message);
+                return res.status(500).json({ error: 'Failed to delete worksheet' });
+            }
+
+            // Remove associated files
+            if (image_path && fs.existsSync(image_path)) {
+                fs.unlinkSync(image_path);
+            }
+
+            if (pdf_path && fs.existsSync(pdf_path)) {
+                fs.unlinkSync(pdf_path);
+            }
+
+            res.status(200).json({ message: 'Worksheet deleted successfully' });
+        });
+    });
+});
+
+
+
+
+router.get('/get/:id', (req, res) => {
+    const { id } = req.params;
+
+    // Validate input
+    if (!id) {
+        return res.status(400).json({ error: 'Worksheet ID is required' });
+    }
+
+    // SQL query to fetch worksheet by ID
+    const query = `
+        SELECT id, title, grade_level, image_path, pdf_path
+        FROM worksheets
+        WHERE id = ?
+    `;
+
+    // Execute the query
+    database.query(query, [id], (err, results) => {
+        if (err) {
+            console.error('Error fetching worksheet:', err.message);
+            return res.status(500).json({ error: 'Failed to fetch worksheet' });
+        }
+
+        if (results.length === 0) {
+            return res.status(404).json({ error: 'Worksheet not found' });
+        }
+
+        res.status(200).json({
+            message: 'Worksheet fetched successfully',
+            data: results[0], // Return the first (and only) worksheet
+        });
+    });
+});
+
+
+
+router.put('/update/:id', upload.fields([{ name: 'image' }, { name: 'pdf' }]), (req, res) => {
+    const { id } = req.params;
+    const { title } = req.body;
+
+    if (!id) {
+        return res.status(400).json({ error: 'Worksheet ID is required' });
+    }
+
+    // Check if new files are uploaded
+    const imageFile = req.files['image'] ? req.files['image'][0] : null;
+    const pdfFile = req.files['pdf'] ? req.files['pdf'][0] : null;
+
+    // Fetch the existing worksheet data
+    const fetchQuery = `SELECT * FROM worksheets WHERE id = ?`;
+
+    database.query(fetchQuery, [id], (fetchErr, results) => {
+        if (fetchErr) {
+            console.error('Error fetching worksheet:', fetchErr.message);
+            return res.status(500).json({ error: 'Failed to fetch worksheet' });
+        }
+
+        if (results.length === 0) {
+            return res.status(404).json({ error: 'Worksheet not found' });
+        }
+
+        const existingWorksheet = results[0];
+        const updatedImagePath = imageFile ? `uploads/worksheets/${imageFile.filename}` : existingWorksheet.image_path;
+        const updatedPdfPath = pdfFile ? `uploads/worksheets/${pdfFile.filename}` : existingWorksheet.pdf_path;
+
+        // Update the worksheet
+        const updateQuery = `
+            UPDATE worksheets 
+            SET title = ?, image_path = ?, pdf_path = ? 
+            WHERE id = ?
+        `;
+        const values = [title || existingWorksheet.title, updatedImagePath, updatedPdfPath, id];
+
+        database.query(updateQuery, values, (updateErr) => {
+            if (updateErr) {
+                console.error('Error updating worksheet:', updateErr.message);
+                return res.status(500).json({ error: 'Failed to update worksheet' });
+            }
+
+            res.status(200).json({
+                message: 'Worksheet updated successfully',
+                data: {
+                    id,
+                    title: title || existingWorksheet.title,
+                    image_path: updatedImagePath,
+                    pdf_path: updatedPdfPath,
+                },
+            });
+        });
+    });
+});
+
+
 module.exports = router;

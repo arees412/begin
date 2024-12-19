@@ -33,7 +33,7 @@ router.get('/all', (req, res) => {
     // SQL query to fetch all grades
     const query = `
         SELECT * 
-        FROM grades
+        FROM grade_levels
     `;
 
     // Execute query

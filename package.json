@@ -4,16 +4,21 @@
   "description": "Backend for beginwise flutter project with mysql database",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
+    "vercel-build": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "MUHAMMAD HASSAN JAVED",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
+    "body-parser": "^1.20.3",
     "chalk": "^4.1.2",
     "cors": "^2.8.5",
-    "dotenv": "^16.4.6",
+    "dotenv": "^16.4.7",
     "express": "^4.21.1",
-    "mysql": "^2.18.1"
+    "multer": "^1.4.5-lts.1",
+    "mysql": "^2.18.1",
+    "uuid": "^11.0.3"
   }
 }
